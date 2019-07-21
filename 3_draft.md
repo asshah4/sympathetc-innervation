@@ -14,60 +14,11 @@ Affiliations: Emory University School of Medicine, Atlanta, Georgia
  INTRODUCTION
 =============
 
-Importance
-----------
-
-Understanding the sympathetic innervation of the heart allows for an
-explanation of the varied and multifactorial effects that lead to
-physiologic and pathophysiologic cardiac and autonomic function.
-
-Objectives
-----------
-
-1.  Anatomy and differential innervation of the heart
-
-2.  Impact of SNS on cardiac function at a cellular and global level
-
-3.  Sympathetic dysregulation as a precursor and result of cardiac
-    pathology
-
-<!-- -->
-
-1.  Introduction
-
-    a.  Background
-
-        i.  Neurocardiac axis mediates connection between brain and
-            heart
-
-    b.  Purpose
-
-        ii. Teach clinicians that sympathetic nervous system is
-            important in normal function as well as pathophysiologic
-            states
-
-        iii. Share how the heart and autonomic system was not built to
-            respond to
-
-        iv. Explore the anatomy, physiology, and pathophysiology
-            relevance of sympathetic outflow to the heart
-
-    c.  Objectives
-
-        v.  Understand how the sympathetic nervous system innervates the
-            heart
-
-        vi. Understand how sympathetic tone effects the functions of the
-            heart (such as chronotropy, inotropy, lusitropy, dromotropy)
-
-        vii. Review how sympathetic dysfunction occurs in pathological
-            states, such as VT/VF, MI, and stress cardiomyopathy.
-
 The human sympathetic nervous system, the master and commander of the
 "fight or flight" response, has not adapted adequately to human disease.
 It is the culprit in multiple pathological states, particularly that of
 the heart. The sympathetic innervation of the heart is part of the
-connection between the brain and the heart, and is inherent in
+connection between the brain and the heart and it is inherent to
 physiology and pathophysiology of cardiac autonomic function. The
 purpose of this review article is to teach clinicians the importance of
 the sympathetic nervous system in both normal and pathophysiological
@@ -100,13 +51,13 @@ Brain and spinal cord level
 
 a.  Spinal cord level
 
-    viii. Spinal cord anatomy of preganglionic neurons location, and
-        both proximal and distal connections to brain and postganglionic
+    i.  Spinal cord anatomy of preganglionic neurons location, and both
+        proximal and distal connections to brain and postganglionic
         neurons
 
         1.  Automaticity and firing of these SNS neurons
 
-    ix. Effect of cerebral/nervous influences on these preganglionic
+    ii. Effect of cerebral/nervous influences on these preganglionic
         cell bodies
 
         2.  Examples include sympathetic storm from TBI, which leads to
@@ -115,25 +66,47 @@ a.  Spinal cord level
         3.  Nervous activity (e.g. panic attack) on the preganglionic
             bodies (what is the connection/mechanism of communicatin)
 
-    x.  Integration of systemic/peripheral reflex arcs into the spinal
+    iii. Integration of systemic/peripheral reflex arcs into the spinal
         cord
 
         4.  Examples include vasovagal syncope, mesenteric ganglia
             response to stress, etc (lumbosacral outflow)
+
+The spinal cord houses the preganglionic neurons of the SNS within the
+lateral horns at each vertebral level. Cardiac outflow occurs between
+the T1 and T6 vertebrae. The neurons exit through the ventral roots that
+merge into the white rami, which join the sympathetic chain and the
+ganglia of the EC. In contrast, the vagal preganglionic neurons are in
+the brain stem, mainly the medullary dorsolateral reticular formation.
+The thoracic spinal segments have a distinct cardiac rhythm and other
+frequencies of oscillation that are transmitted to the postganglionic
+neurons in the heart. The distinct periodicities include 10 Hz, 2-6 Hz,
+respiratory rates, and slower firing that matches the speed of arterial
+blood pressure oscillations (Mayer waves).^2^
+
+Although there is some automaticity of the firing rate of the SNS
+neurons within the spinal cord, there are many higher orders of
+influence that affect the activity of the preganglionic cell bodies. For
+example, nervous activity such as a panic attack, can lead to increased
+autonomic outflow, but so can events liked traumatic brain injury that
+leads to hyperactivation and sympathetic storm. Other peripheral and
+systemic reflexes are also integrated at the level of the spinal cord,
+such as vasovagal syncope, the mesenteric ganglia response to stress
+(lumbosacral outflow).
 
 Thoracic, extracardiac level
 ----------------------------
 
 a.  Thoracic, extracardiac level
 
-    xi. Anatomy of the thoracic ganglia
+    iv. Anatomy of the thoracic ganglia
 
         5.  Preganglionic fibers exit from DRG and enter white rami,
             then eventually form sympathetic chain and thoracic ganglia
 
         6.  T1 to T6 specifically are responsible for cardiac outflow
 
-    xii. Stellate ganglia
+    v.  Stellate ganglia
 
         7.  Historic examples include stellectomy/ganglion block to help
             decrease VT/VF burden
@@ -141,42 +114,31 @@ a.  Thoracic, extracardiac level
         8.  Innervation of the heart is different between LSG and RSG,
             to some degree
 
-The preganglionic neurons are rooted in the lateral horns of the spinal
-cord, and the cardiac outflow occurs between the T1 and T6 vertebrae.
-After exiting the spinal cord from the ventral roots into the white
-rami, they join the sympathetic chain, which form the ganglia of the EC.
-In contrast, the vagal preganglionic neurons are found in the brain
-stem, mainly in the medullary dorsolateral reticular formation. The
-thoracic spinal segments have a distinct cardiac rhythm and other
-oscillatory frequencies that are reproduced at the level of cardiac
-postganglionic neurons. They have periodicities from 2-6 Hz, 10 Hz,
-respiratory rates, and slower oscillations (\~0.3 Hz) that match the
-speed of arterial blood pressure oscillations named Mayer waves.^2^
-
-The myocardium is innervated directly by these sympathetic neurons, with
-both afferent and efferent pathways present. The stellate ganglia are
-perhaps the most well-studied, carrying both preganglionic fibers and
-postganglionic neurons to the heart. The right stellate ganglia (RSG)
-and the left stellate ganglia (LSG) are seen to have differences in
-function based on the location of their nerve endings. Of the
-ventricles, the RSG is directed towards the anterior and basal aspects,
-while the LSG is directed towards the posterior and apical aspects. Both
-ganglia however dually innervate the anterior left ventricular (LV)
-wall.^3^ The RSG in particular in addition has predominance in the
-atria, compared to the LSG. The postganglionic fibers from the thoracic
-ganglia, as well as the preganglionic fibers from the spinal cord,
-terminate within a complex neural network of ganglionated plexuses (GPs)
-within the heart that compose the IC.
+The thoracic ganglia that make up the EC contain neurons that directly
+innervate the myocardium. Both afferent and efferent pathways are
+present. The most well-studied is of course the stellate ganglia, which
+carries both preganglionic fibers and postganglionic neurons to the
+heart. The right stellate ganglia (RSG) and the left stellate ganglia
+(LSG) are seen to have differences in function based on the location of
+their nerve endings. Of the ventricles, the RSG is directed towards the
+anterior and basal aspects, while the LSG is directed towards the
+posterior and apical aspects. Both ganglia however dually innervate the
+anterior left ventricular (LV) wall.^3^ The RSG in particular in
+addition has predominance in the atria, compared to the LSG. The
+postganglionic fibers from the thoracic ganglia, as well as the
+preganglionic fibers from the spinal cord, terminate within a complex
+neural network of ganglionated plexuses (GPs) within the heart that
+compose the IC.
 
 Intrinsic cardiac level
 -----------------------
 
 a.  Intrinsic cardiac level
 
-    xiii. Sympathetic nervous system is within GPs around epicardium of
+    vi. Sympathetic nervous system is within GPs around epicardium of
         heart, particularly in epicardial fat pads.
 
-    xiv. Innervation of the cardiac chambers and wall
+    vii. Innervation of the cardiac chambers and wall
 
         9.  Epicardium is highest density of nerve fibers, which
             decrease as going into endocardium
@@ -188,7 +150,7 @@ a.  Intrinsic cardiac level
             adrenergic fibers, but barely any vagal fibers (except
             inferior wall)
 
-    xv. Coronary artery innervation goes from a plexus around
+    viii. Coronary artery innervation goes from a plexus around
         major/large arteries, and decreases in size until it is only 1-2
         nerves at level of arteriole
 
@@ -234,35 +196,35 @@ mechanical stimuli.^15^
  VENTRICULAR FIBRILLATORY THRESHOLD
 ===================================
 
-2.  Ventricular fibrillatory threshold
+1.  Ventricular fibrillatory threshold
 
-    d.  Pertinent history of SCD
+    a.  Pertinent history of SCD
 
-        xvi. SCD occurs with increased sympathetic tone
+        ix. SCD occurs with increased sympathetic tone
 
             12. Historical studies about emotional and stress triggers
 
-        xvii. Lown et al showed increased SNS leads to VT/VF in humans
+        x.  Lown et al showed increased SNS leads to VT/VF in humans
 
-        xviii.  Increased PVC during times of stress and increased SNS
+        xi. Increased PVC during times of stress and increased SNS
             activity in human recordings
 
-        xix. VF threshold is modulated by different factors (mainly SNS
+        xii. VF threshold is modulated by different factors (mainly SNS
             activity)
 
             13. Increased likelihood of ventricular dysrhythmias of the
                 heart
 
-    e.  Normal effects of sympathetic tone through stellate ganglia
+    b.  Normal effects of sympathetic tone through stellate ganglia
         stimulation
 
-        xx. Increased SNS (e.g. stellate stimulation) leads to increased
-            inotropy/lusitropy
+        xiii. Increased SNS (e.g. stellate stimulation) leads to
+            increased inotropy/lusitropy
 
-        xxi. RSG stimulation leads to increased SA firing, thus
+        xiv. RSG stimulation leads to increased SA firing, thus
             increased chronotropy/dromotropy
 
-        xxii. Increased stimulation leads to increased episodes of VT/VF
+        xv. Increased stimulation leads to increased episodes of VT/VF
             (excluding effects of ischemia)
 
         <!-- -->
@@ -342,28 +304,28 @@ Myocardial infarction and ischemia
 
 Coronary perfusion
 
-f.  Myocardial infarction/ischemia
+c.  Myocardial infarction/ischemia
 
-    xxiii.  Advent of MI can change and increase VT/VF events
+    xvi. Advent of MI can change and increase VT/VF events
 
-    xxiv. Infarction leads to rewiring of the heart, including NE
+    xvii. Infarction leads to rewiring of the heart, including NE
         release
 
-    xxv. Beta blockers, CCU "quiet and calm" can prevent sympathetic
+    xviii.  Beta blockers, CCU "quiet and calm" can prevent sympathetic
         dysregulation
 
-g.  Cardiac innervation heterogeneity
+d.  Cardiac innervation heterogeneity
 
-    xxvi. Localized changes occur after infarct, included denervation
+    xix. Localized changes occur after infarct, included denervation
 
         14. FIGURE: myocardial ischemia leads to interdigitations of
             non-ischemic regions
 
-    xxvii.  Scar tissue development becomes a nidus for VT/VF
+    xx. Scar tissue development becomes a nidus for VT/VF
 
         15. Benefit of epicardial ablation at times
 
-    xxviii.   Adrenergic receptor dysregulation after ischemia
+    xxi. Adrenergic receptor dysregulation after ischemia
 
 <!-- -->
 
@@ -415,29 +377,29 @@ g.  Cardiac innervation heterogeneity
  EFFECT OF CATECHOLAMINES
 =========================
 
-3.  Catecholamine-based necrosis
+2.  Catecholamine-based necrosis
 
-    h.  Malignant effects of catecholamines
+    e.  Malignant effects of catecholamines
 
-        xxix. Takotsubo to discuss apical ballooning
+        xxii. Takotsubo to discuss apical ballooning
 
             16. Mortality with Takotsubo is same with traditional AcS
 
-        xxx. Wellen's T waves occur in setting of significant apical NE
-            levels
+        xxiii.  Wellen's T waves occur in setting of significant apical
+            NE levels
 
             17. Stress events
 
             18. Cerebral injury
 
-        xxxi. Effect of adrenergic receptor density on apex of the heart
+        xxiv. Effect of adrenergic receptor density on apex of the heart
 
 Neurotransmitters
 -----------------
 
-i.  Important neurotransmitters that mediate sympathetic tone
+f.  Important neurotransmitters that mediate sympathetic tone
 
-    xxxii.  Sympathetic signals
+    xxv. Sympathetic signals
 
         19. NE
 
@@ -448,13 +410,13 @@ i.  Important neurotransmitters that mediate sympathetic tone
 
         21. NPY
 
-    xxxiii.   Parasympathetic signals
+    xxvi. Parasympathetic signals
 
         22. Ach
 
         23. NOS
 
-    xxxiv.  TABLE: Describe individual neurohormones and effect on heart
+    xxvii.  TABLE: Describe individual neurohormones and effect on heart
 
 Although NE is the typical mediator of adrenergic fibers, the other
 relevant neurohormones have an important role in their interactions.
