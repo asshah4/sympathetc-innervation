@@ -74,11 +74,12 @@ the sympathetic nervous system in both normal and pathophysiological
 states, share how pathology stems from inappropriate responses by the
 autonomic nervous system, and to explore the anatomy and physiology of
 sympathetic outflow to the heart. The reader should be able to (1)
-understand how the sympathetic nervous system innervates the heart, (2)
-understand the effects of sympathetic tone on the heart, such s
-chronotropy, inotropy, lusitropy, and dromotropy, and (3) understand
-sympathetic dysfunction in described pathological states such as
-ventricular dysrhythmias, myocardial infarctions, and cardiomyopathies.
+understand the relevant anatomy of the sympathetic nervous system as it
+innervates the heart, (2) understand the effects of sympathetic tone on
+the heart, such as chronotropy, inotropy, lusitropy, and dromotropy, and
+(3) understand how sympathetic dysfunction plays a role in pathological
+states such as ventricular dysrhythmias, myocardial infarctions, and
+cardiomyopathies.
 
 ANATOMIC AND PHYSIOLOGIC CONSIDERATIONS
 =======================================
