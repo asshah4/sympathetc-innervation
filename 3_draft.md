@@ -1,5 +1,5 @@
-DRAFT: THE SYMPATHETIC INNERVATION OF THE HEART
-===============================================
+ DRAFT: THE SYMPATHETIC INNERVATION OF THE HEART
+================================================
 
 Title: The Sympathetic Innervation of the Heart -- a Clinical Review
 
@@ -42,9 +42,12 @@ The neural control of the heart is in part a product of its anatomy. The
 structure, sometimes described as the neurocardiac axis, has three
 distinct levels: the brain and spinal cord, the thoracic and
 extracardiac ganglia (EC), and the intrinsic cardiac nervous system
-(IC).^1^ These levels send information through afferent and efferent
-limbs of both the sympathetic and parasympathetic nervous systems, and
-at each level interactions occur that affect the autonomic state.
+(IC).(Ardell & Armour, 2016) These levels send information through
+afferent and efferent limbs of both the sympathetic and parasympathetic
+nervous systems, and at each level interactions occur that affect the
+autonomic state.
+
+\[figure: innervation of the heart anatomy\]
 
 Brain and spinal cord level
 ---------------------------
@@ -59,7 +62,7 @@ The thoracic spinal segments have a distinct cardiac rhythm and other
 frequencies of oscillation that are transmitted to the postganglionic
 neurons in the heart. The distinct periodicities include 10 Hz, 2-6 Hz,
 respiratory rates, and slower firing that matches the speed of arterial
-blood pressure oscillations (Mayer waves).^2^
+blood pressure oscillations (Mayer waves).(Malpas, 1998)
 
 Although there is some automaticity of the firing rate of the SNS
 neurons within the spinal cord, there are many higher orders of
@@ -83,9 +86,9 @@ heart. The right stellate ganglia (RSG) and the left stellate ganglia
 their nerve endings. Of the ventricles, the RSG is directed towards the
 anterior and basal aspects, while the LSG is directed towards the
 posterior and apical aspects. Both ganglia however dually innervate the
-anterior left ventricular (LV) wall.^3^ The RSG in particular in
-addition has predominance in the atria, compared to the LSG. The
-postganglionic fibers from the thoracic ganglia, as well as the
+anterior left ventricular (LV) wall.(Vaseghi et al., 2012) The RSG in
+particular in addition has predominance in the atria, compared to the
+LSG. The postganglionic fibers from the thoracic ganglia, as well as the
 preganglionic fibers from the spinal cord, terminate within a complex
 neural network of ganglionated plexuses (GPs) within the heart that
 compose the IC.
@@ -97,246 +100,209 @@ The postganglionic neurons of the IC are found in the GPs, which are the
 location for the interaction between preganglionic fibers,
 parasympathetic fibers, and cardiac interneurons. The majority of GPs
 contain 200-1000 neurons each, and form synapses with sympathetic and
-parasympathetic fibers that enter the pericardial space.^4^ The highest
-density of GPs are near the hilum of the heart, with up to 50% of
-cardiac ganglia on the dorsal surface of the LA.^5^ Sympathetic nerves
-also travel along the major coronary arteries as a plexus, and decrease
-in proportion to vessel size to 2 single fibers at level of
-arterioles.^6^
+parasympathetic fibers that enter the pericardial space.(J. Andrew
+Armour, Murphy, Yuan, Macdonald, & Hopkins, 1997) The highest density of
+GPs are near the hilum of the heart, with up to 50% of cardiac ganglia
+on the dorsal surface of the LA.(Pauza, Skripka, Pauziene, & Stropus,
+2000) Sympathetic nerves also travel along the major coronary arteries
+as a plexus, and decrease in proportion to vessel size to 2 single
+fibers at level of arterioles.(Dolezel, Gerová, Gero, Sládek, & Vasku,
+1978)
 
 The GPs extend epicardially to innervate the atria, interatrial septum,
 and ventricles, but sympathetic innervation is not uniform. Early
 studies looked at tyrosine hydroxylase, the enzyme that produces nor
 epinephrine (NE), to help identify important sympathetic nerves and
 fibers. The ventricles showed a gradient from base to apex, with the
-lowest concentration in the apex of the heart.^7^ Another way that the
-innervation has been studied is by using radiolabeled
-metaiodobenzylguanidine (MIBG), a catecholamine analog. Studies showed
-that the inferior wall of the LV had less uptake than the anterior
-region. ^8,9^ In contrast, the inferior LV wall has a higher proportion
-of vagal afferent neurons.^10^
+lowest concentration in the apex of the heart.(Pierpont, DeMaster,
+Reynolds, Pederson, & Cohn, 1985) Another way that the innervation has
+been studied is by using radiolabeled metaiodobenzylguanidine (MIBG), a
+catecholamine analog. Studies showed that the inferior wall of the LV
+had less uptake than the anterior region. (Momose, Tyndale-Hines,
+Bengel, & Schwaiger, 2001; Morozumi et al., 1997) In contrast, the
+inferior LV wall has a higher proportion of vagal afferent
+neurons.(Walker, Thames, Abboud, Mark, & Kloppenstein, 1978)
 
 The layers of the heart also showed differences in sympathetic density.
 The highest is in the epicardium, and it decreases reaching towards the
 endocardium. Within the endocardium, there is a right-to-left decreasing
 gradient of sympathetic innervation, proportional to the density of
-cholinergic (vagal nerves).^11^ Within the epicardium, there is also
-ventricle-to-atrium decreasing gradient of innervation. Within the
-ventricles, sympathetic afferent neurons are the main sensory neurons.
-They are triggered by predominately chemical stimuli, but also by
-mechanical stimuli.^12^
+cholinergic (vagal nerves).(Crick, Anderson, Ho, & Sheppard, 1999)
+Within the epicardium, there is also ventricle-to-atrium decreasing
+gradient of innervation. Within the ventricles, sympathetic afferent
+neurons are the main sensory neurons. They are triggered by
+predominately chemical stimuli, but also by mechanical stimuli.(J A
+Armour, Huang, Pelleg, & Sylvén, 1994)
 
  VENTRICULAR FIBRILLATORY THRESHOLD
 ===================================
 
-1.  Ventricular fibrillatory threshold
+Over 100 years ago, John MacWilliam proposed that VF was the mechanism
+behind SCD, and subsequently Thomas Jonnesco demonstrated that cardiac
+sympathectomy was protective against ventricular arrhythmias.(de Silva,
+1989; Peter J Schwartz, De Ferrari, & Pugliese, 2017) Other
+corroborative studies by Bernard Lown showed that vagus nerve
+stimulation decreased the vulnerability of the heart to VF while
+vagotomy increased it.(Kolman, Verrier, & Lown, 1975; P. J. Schwartz,
+Verrier, & Lown, 1977) This adequately argues that sympathetic tone is
+in part culpable for VF/VT events.
 
-    a.  Pertinent history of SCD
+\[figure of VF threshold and vagotomy\]
 
-        i.  SCD occurs with increased sympathetic tone
+The unopposed sympathetic nerve is pathologic. Stimulation of the SNS
+however can occur from higher nervous factors. An excellent example is
+how the frequency of premature ventricular contractions increased under
+psychological stress, suggesting that even transient nervous factors
+lead to electrical instability.(Lown, Verrier, & Rabinowitz, 1977) These
+extrasystole beats can be reduced by the introduction of beta-adrenergic
+blockade.(Matta, Lawler, Lown, & Boston, n.d.) Empiric and anecdotal
+evidence provided the initial insight into how sudden death was
+triggered by psychological stress. Engel described several categories of
+traumatic life settings that precipitated sudden death, from the loss of
+a loved one, acute grief, personal danger, and even triumph. This
+pattern was found to play out in a larger scale, with case series by
+Greene and Rahe that demonstrated hundreds of episodes of sudden death
+preceded acute and chronic emotional events.(Greene, Goldstein, & Moss,
+1972; Rahe, Bennett, Romo, Siltanen, & Arthur, 1973)
 
-            1.  Historical studies about emotional and stress triggers
+\[figure: PVC frequency increased with stress\]
 
-        ii. Lown et al showed increased SNS leads to VT/VF in humans
-
-        iii. Increased PVC during times of stress and increased SNS
-            activity in human recordings
-
-        iv. VF threshold is modulated by different factors (mainly SNS
-            activity)
-
-            2.  Increased likelihood of ventricular dysrhythmias of the
-                heart
-
-    b.  Normal effects of sympathetic tone through stellate ganglia
-        stimulation
-
-        v.  Increased SNS (e.g. stellate stimulation) leads to increased
-            inotropy/lusitropy
-
-        vi. RSG stimulation leads to increased SA firing, thus increased
-            chronotropy/dromotropy
-
-        vii. Increased stimulation leads to increased episodes of VT/VF
-            (excluding effects of ischemia)
-
-        <!-- -->
-
-        i.  Paroxysmal atrial fibrillation (pAF)
-
-            1.  pAF induced by initial adrenergic surge, followed by
-                vagal predominance. ^13,14^ Mediated by increased PV
-                firing from tachycardia-pause initiations which lead to
-                increased EAD. ^15^
-
-            2.  Extrinsic cardiac (EC) after
-
-        ii. VT/VF
-
-            3.  Stimulation of the stellate ganglion in canine models
-                had increased chance of causing ventricular fibrillation
-                particularly after coronary occlusion.^16^ Stellate
-                ganglion thought to be carrying efferent sympathetic
-                fibers. After stellate ganglionectomy, the VF threshold
-                increased to 11% from 31% (compared to control VF rate).
-                ^17^ Unilateral stellectomy may have compensatory
-                contralateral activation, and then are agonized by vagal
-                activity.^18^
-
-        iii. Long QT syndromes
-
-            1.  Increased beta-agonism leads to torsades de pointe (Tdp)
-                d/t increased dispersion of depolarization or
-                afterdepolarizations. ^19^
+The evolutionary purpose of sympathetic outflow to the heart allows for
+a by-product, the decrease in the VF threshold that is seen with
+stellate stimulation . Its physiologic role however is related to the
+original "fight or flight" response. Studies focused on the stellate
+ganglia helped to delineate the specific actions the SNS had upon the
+heart. The basic responses of the heart are inotropy (increased
+"squeeze"), lusitropy (improved relaxation), chronotropy (increased
+sinoatrial firing), and dromotropy (improved nerve conduction). There is
+an element of handed-ness to the innervation, such that the right and
+left stellate ganglia have differing effects, in part because of
+location of innervation. The RSG has an higher amount of atrial
+innervation, including the SA node, and leads to changes in chronotropy.
+The LSG innervates the ventricles predominantly, leading to an increase
+in inotropy. The relationship is complex, as right stellectomy can lead
+to compensatory contralateral activation.(P. J. Schwartz et al., 1977)
+Bilateral stellectomy though has a well-established effect of increased
+the resilience of the heart to VT and VF.(Kliks, Burgess, & Abildskov,
+1975)
 
  CORONARY PERFUSION
 ===================
 
-Coronary perfusion
-------------------
+In an out-of-hospital cardiac arrests, ST-segment elevations after VT or
+VF event have over a 70% chance of significant coronary artery disease
+(CAD).(Yannopoulos et al., 2019) Even after an MI, Dr. Bernard Lown
+noted that patients were at significant risk for SCD and would benefit
+from a coronary care unit that focused on prophylaxis of arrhythmias.
+How do acute infarction and chronic ischemia generate malignant rhythms?
+There are acute responses and delayed reorganization of the SNS that
+explain these findings.
 
-a.  Coronary perfusion
+Knowledge of coronary blood flow regulation is important in
+understanding the pathogenesis of VT and VF. The most prominent
+regulators of the coronary arteries is based on pressure changes. High
+pressure leads to sympathetic inhibition, while low pressures causes
+increased sympathetic efferent outflow which leads to
+vasoconstriction.(Drinkhill, Mcmahon, & Hainsworth, 1996; McMahon,
+Drinkhill, & Hainsworth, 1996) The coronary arteries are innervated by
+both adrenergic and cholinergic neurons, with an increase in the amount
+of nerve terminals in the smaller arteries and arterioles.(Lever, Ahmed,
+& Irvine, 1965) The beta-1 adrenergic receptors (B1AR) predominate the
+larger conduit arteries while the smaller vessels have a higher
+proportion of B2AR and alpha-1 adrenergic receptors (A1AR).(Baumgart et
+al., 1999; Murphree & Saffitz, 1988) For example, in cardiac transplant
+patients, as they have no connection between the EC and IC, systemic NE
+leads to coronary vasodilation in the large vessels (e.g. left anterior
+descending) in proportion to the concentration of sympathetic nerve
+terminals.(Di Carli et al., 2002) However, in the event of ischemia or
+increased workflow, coronary vasoconstriction can be attenuated by the
+metabolic waste productions like adenosine.(Abe, Morgan, & Gutterman,
+1997) These differences in proportions of receptors are responsible for
+balancing perfusion through local vasodilation and vasoconstriction in
+the healthy heart, as a response to cardiac demand and myocardial
+contraction. These systems were not built to respond to ischemia.
 
-    iv. Coronary baroreceptor
+\[figure: coronary perfusion and VF threshold\]
 
-        4.  Baroreceptor reflex vagally mediated: high coronary pressure
-            leads to sympathetic inhibition, but low pressures lead to
-            delayed/slow efferent sympathetic outflow/vasoconstriction.
-            ^20,21^
+The heart responds to acute changes in coronary perfusion with an
+intense sympathetic response, which subsequently lowers the VF
+threshold. Transmural infarcts lead to sympathetic denervation, while
+subendocardial ischemia will likely only impact the vagal afferent nerve
+endings.(Herre et al., 1988; Zipes, 1990) This was studied by looking at
+the response of nerves to epicardial stimuli. Non-transmural ischemia
+still allowed for a response to chemical stimuli, but transmural
+ischemia lead to apical loss of efferent sympathetic nerves within 20
+minutes. (Inoue, Skale, & Zipes, 1988) After 90 minutes, afferent
+sympathetic and vagal nerves also became denervated.(Barber, Mueller,
+Davies, Gill, & Zipes, 1985) During these ischemic events, there is an
+increase in sympathetic excitatory outflow.(Anthony J Minisi & Thames,
+1991a).
 
-    v.  Coronary blood flow
+\[figure: zipes myocardial innervation\]
 
-        5.  Sympathetic coronary vasoconstriction can be
-            attenuated/blocked by adenosine. ^22^
+However there remains a prolonged risk for arrhythmias after
+reperfusion. There is differential, heterogenous innervation of
+sympathetic fibers in the cardiac tissue that become a nidus for
+arrhythmogenesis. Initially after ischemia, IC neuronal remodeling
+occurs. There is an immediate and persistent increase in nitric oxide
+synthase (NOS) containing neurons and a hypersensitivity to NE stimuli
+leading to generalized excitability.(Hardwick, Ryan, Beaumont, Ardell, &
+Southerland, 2014) The non-ischemic and ischemic territories develop
+differential sympathetic efferent activity after events as well.(Neely &
+Hageman, 1990) Both denervation and hyperinnervation are the response,
+and at the boundary of preserved and ischemic myocardium there becomes
+an interdigitation of innervated and denervated tissue.(Huang, Boyle, &
+Vaseghi, 2017) The nerve-sprouting that occurs is due to an increase in
+activity of left stellate ganglia in the setting of chronic myocardial
+ischemia.(Cao et al., 2000; Chen et al., 2001)
 
-        6.  Increased sympathetic tone leads to increased coronary
-            vasodilation based on NE content of sympathetic nerve
-            terminals (LAD \> LCx \> RCA), but only in cardiac
-            transplant patients. ^23^ Suggest EC influences on IC may
-            exist.
-
-        7.  Innervated by both adrenergic and cholinergic neurons.
-            Smaller arteries/arterioles contain more nerve terminals
-            than larger coronary arteries. ^24^
-
-        8.  B1AR predominantly in larger coronary conduit arteries
-            (B1AR:B2AR in \~2:1 ratio) \> 100 µm, while in smaller
-            coronary arteries \< 100 µm, B1AR \~= B2AR. ^25^ B1AR
-            stimulation leads to vasodilation, while A1AR leads to
-            vasoconstriction. ^26^ May exist to limit large vessel
-            "steal" during ischemia.
-
-Myocardial infarction and ischemia
-----------------------------------
-
-Coronary perfusion
-
-c.  Myocardial infarction/ischemia
-
-    viii. Advent of MI can change and increase VT/VF events
-
-    ix. Infarction leads to rewiring of the heart, including NE release
-
-    x.  Beta blockers, CCU "quiet and calm" can prevent sympathetic
-        dysregulation
-
-d.  Cardiac innervation heterogeneity
-
-    xi. Localized changes occur after infarct, included denervation
-
-        3.  FIGURE: myocardial ischemia leads to interdigitations of
-            non-ischemic regions
-
-    xii. Scar tissue development becomes a nidus for VT/VF
-
-        4.  Benefit of epicardial ablation at times
-
-    xiii. Adrenergic receptor dysregulation after ischemia
-
-<!-- -->
-
-1.  Ventricular wall
-
-    a.  Transmural infarct leads to sympathetic denervation
-        (subendocardial ischemia may only damage vagal afferent).
-        ^27,28^ Afferent sympathetic/vagal denervation occurs within 90
-        minutes after infarct at site, which travel apical-to-basal.
-        ^29^ Non-transmural ischemia retains response to stimuli. ^30^
-        Transmural ischemia leads to apical loss of efferent sympathetic
-        nerves within 20 minutes. ^31^
-
-    b.  Areas of cardiac tissue that have lost sympathetic innervation
-        have supersensitive shortening of ERP to stimuli (e.g. NE or
-        cervical ganglia stimulation), and have increased VF events.
-        ^32^
-
-    c.  Sympathetic efferent show different activity based on
-        innervating ischemic vs non-ischemic territory. ^33^
-
-    d.  Transmural ischemia, hitting epicardial layer (without
-        collaterals like in dogs), triggers sympathetic afferent
-        activity = leads to excitatory outflow. ^34^. Left ventricular
-        wall has asymmetric sympathovagal innervation: vagal afferent
-        preferentially distribute to inferior-posterior LV wall,
-        sympathetic afferent are equally distributed (tested by inducing
-        ischemia). ^35^
-
-    e.  Ischemia leads to IC neuronal remodeling, with
-        immediate/persistent increase in NOS-neurons, with
-        hypersensitivity to NE stimuli (increase GP excitability,
-        augmented post-MI). ^36^
-
-    f.  Response to ischemia can be denervation vs. hyperinnervation,
-        leads to heterogenous sympathetic fibers (increased
-        arrhythmogenesis). ^37^ Nerve sprouting theory: increased
-        sympathetic neurons lead to increased VT/VF in ischemia (induced
-        by nerve growth factor in LSG), and in chronic myocardial
-        ischemia, higher amount of LSG sympathetic nerve sprouting
-        occurs. ^38,39^
+Not only does myocardial ischemia and infarction lead to changes in
+innervation, but also in receptor density and response, which we will
+discuss in the next section.
 
  EFFECT OF CATECHOLAMINES
 =========================
 
-2.  Catecholamine-based necrosis
+1.  Catecholamine-based necrosis
 
-    e.  Malignant effects of catecholamines
+    a.  Malignant effects of catecholamines
 
-        xiv. Takotsubo to discuss apical ballooning
+        i.  Takotsubo to discuss apical ballooning
 
-            5.  Mortality with Takotsubo is same with traditional AcS
+            1.  Mortality with Takotsubo is same with traditional AcS
 
-        xv. Wellen's T waves occur in setting of significant apical NE
+        ii. Wellen's T waves occur in setting of significant apical NE
             levels
 
-            6.  Stress events
+            2.  Stress events
 
-            7.  Cerebral injury
+            3.  Cerebral injury
 
-        xvi. Effect of adrenergic receptor density on apex of the heart
+        iii. Effect of adrenergic receptor density on apex of the heart
 
 Neurotransmitters
 -----------------
 
-f.  Important neurotransmitters that mediate sympathetic tone
+b.  Important neurotransmitters that mediate sympathetic tone
 
-    xvii. Sympathetic signals
+    iv. Sympathetic signals
 
-        8.  NE
+        4.  NE
 
             a.  Alpha and beta adrenergic receptors have differential
                 preference of location
 
-        9.  Galanin
+        5.  Galanin
 
-        10. NPY
+        6.  NPY
 
-    xviii.  Parasympathetic signals
+    v.  Parasympathetic signals
 
-        11. Ach
+        7.  Ach
 
-        12. NOS
+        8.  NOS
 
-    xix. TABLE: Describe individual neurohormones and effect on heart
+    vi. TABLE: Describe individual neurohormones and effect on heart
 
 Although NE is the typical mediator of adrenergic fibers, the other
 relevant neurohormones have an important role in their interactions.
@@ -346,89 +312,96 @@ identified. Choline acetyltransferase (ChAT) produced acetylcholine
 predominate cardiac nerves, making anywhere from 60% to 100% of cardiac
 ganglia. ChAT somata are also more common in the atria than the rest of
 the heart. In the presence of NE, the inhibitory effects of ACh are
-exaggerated in a phenomenon called accentuated antagonism.^40,41^ Nitric
-oxide synthase (NOS) produces nitric oxide (NO), and colocalizes with
-ChAT somata. Its present equally from endocardium to epicardium, but the
-density favors the base versus the apex.^42^ As it is also a
+exaggerated in a phenomenon called accentuated antagonism.(Levy, 1971;
+Stramba-Badiale et al., 1991) Nitric oxide synthase (NOS) produces
+nitric oxide (NO), and colocalizes with ChAT somata. Its present equally
+from endocardium to epicardium, but the density favors the base versus
+the apex.(Brack, Patel, Coote, & Ng, 2007) As it is also a
 co-transmitter that modulates the vagal effect of increasing the VF
 threshold, through modifying action potential duration (APD). Vasoactive
 intestinal peptide (VIP) is also co-released with ACh, however neuronal
 somata containing VIP are scarce within the IC. All of the nerve fibers
 reaching into the cardiac ganglia however are reactive for VIP which
-likely comes from central sources.^43,44^
+likely comes from central sources.(Hoover et al., 2009; Parsons,
+Locknar, Young, Hoard, & Hoover, 2006)
 
 TH is responsible for NE production, but surprisingly 10-20% of all
-neurons contain both TH and ChAT.^45^ Both the left and right coronary
-plexuses however are mainly adrenergic.^46^ Alongside NE, neuropeptide Y
-(NPY) is co-released. At the level of the synapse, NPY attenuates the
-effect of vagal tone by decreasing ACh release.^47^ It also functions as
-a potent coronary vasoconstrictor acutely, however may lead to
-angiogenesis in the long-term.^48^ NPY, in human studies, leads to mild
-constriction of epicardial arteries for all patients. However, in those
-with microvascular angina, defined by normal left heart catherization
-but abnormal myocardial perfusion, NPY leads to transient myocardial
-ischemia.^49^ Galanin is also released alongside NPY, and it acts by
-inhibiting cholinergic nerves to reduce ACh release. Galanin receptors
-(GalR1) are found on ChAT somata and synapses, and may mediate the
-breaking of vagal bradycardia as it is expressed strongly at the
-sinoatrial (SA) node.^50^ Galanin is normally only co-expressed in \~5%
-of TH somata in the stellate, however after injury, its levels are
-increased to almost all neurons within 72 hours.^50^
+neurons contain both TH and ChAT.(Pauza et al., 2013) Both the left and
+right coronary plexuses however are mainly adrenergic.(Pauziene et al.,
+2016) Alongside NE, neuropeptide Y (NPY) is co-released. At the level of
+the synapse, NPY attenuates the effect of vagal tone by decreasing ACh
+release.(Herring, Lokale, Danson, Heaton, & Paterson, 2008) It also
+functions as a potent coronary vasoconstrictor acutely, however may lead
+to angiogenesis in the long-term.(Herring, 2015) NPY, in human studies,
+leads to mild constriction of epicardial arteries for all patients.
+However, in those with microvascular angina, defined by normal left
+heart catherization but abnormal myocardial perfusion, NPY leads to
+transient myocardial ischemia.(Rosano et al., 2017) Galanin is also
+released alongside NPY, and it acts by inhibiting cholinergic nerves to
+reduce ACh release. Galanin receptors (GalR1) are found on ChAT somata
+and synapses, and may mediate the breaking of vagal bradycardia as it is
+expressed strongly at the sinoatrial (SA) node.(Herring et al., 2012)
+Galanin is normally only co-expressed in \~5% of TH somata in the
+stellate, however after injury, its levels are increased to almost all
+neurons within 72 hours.(Herring et al., 2012)
 
 The direct effect of sympathetic firing is through the release of NE,
 which can bind to four different adrenergic receptors (AR). B1 and B2
 adrenergic recept
 
-vi. B1 and B2 adrenergic receptors are present in cardiac myocytes at
+i.  B1 and B2 adrenergic receptors are present in cardiac myocytes at
     sympathetic synaptic terminals; B1AR accumulate at synapses, while
-    B2AR undergo endocytosis/internalization. ^51^ Beta-agonists lead to
-    increase in cardiac mass through increased size of cardiac myocytes.
-    ^52,53^
+    B2AR undergo endocytosis/internalization. (Shcherbakova et
+    al., 2007) Beta-agonists lead to increase in cardiac mass through
+    increased size of cardiac myocytes. (Franzoso, Zaglia, & Mongillo,
+    2016; Zaglia et al., 2013)
 
-vii. Almost all cardiomyocytes are in contact with sympathetic neurons
-    (similar proportion to contact c- capillaries). ^54^ Basal/trophic
-    sympathetic release leads to cardiomyocyte eutrophy (loss of
-    beta-agonism leads to atrophy).
+ii. Almost all cardiomyocytes are in contact with sympathetic neurons
+    (similar proportion to contact c- capillaries). (Hirsch et
+    al., 2013) Basal/trophic sympathetic release leads to cardiomyocyte
+    eutrophy (loss of beta-agonism leads to atrophy).
 
 Cardiomyopathy
 --------------
 
-2.  Increased sympathetic tone in ischemic HF models (porcine) improves
+1.  Increased sympathetic tone in ischemic HF models (porcine) improves
     myocardial contraction, decreased oxygen consumption, decreases
-    intraventricular desynchrony, all without elevation of NE. ^55^
+    intraventricular desynchrony, all without elevation of NE. (Liu et
+    al., 2012)
 
-3.  After developing late-stage HF, neuronal bodies become hypertrophied
+2.  After developing late-stage HF, neuronal bodies become hypertrophied
     and edematous. They become less excitable and may lead to vagal
-    withdrawal. ^56^
+    withdrawal. (Singh et al., 2013)
 
-4.  In both ischemic and dilated CM...B1 receptor downregulation
+3.  In both ischemic and dilated CM...B1 receptor downregulation
     (proportion of subtypes are the same compared to healthy).
     Transmural distribution is different, c- lower B1 receptors found in
-    subendocardium. ^57^
+    subendocardium. (Beau, Tolley, & Saffitz, 1993)
 
-5.  Cardiac sympathetic afferent reflex (CSAR) causes minimal increase
+4.  Cardiac sympathetic afferent reflex (CSAR) causes minimal increase
     in contractility, but has increased peripheral vasoconstriction
     (compared to rat controls). CSAR can be inhibited by epicardial
     lidocaine -- decreased contractility more in HF rats than control
-    (also caused drop in LVEDP paradoxically). ^58^
+    (also caused drop in LVEDP paradoxically). (Wang, Rozanski, &
+    Zucker, 2017)
 
-    g.  Myocardial contractility
+    a.  Myocardial contractility
 
-        viii. NE release by the heavily sympathetically-innervated
+        iii. NE release by the heavily sympathetically-innervated
             myocardium leads to Ca++ channel activity and ryanodine
             receptor (RyR), which leads to increased cytosolic Ca++.
-            Effect is increased inotropy/lusitropy. ^59^ Sympathetic
-            stimuli with NE at SA node also leads to increased
-            myocardial interstitial levels of NE, which lead to
-            ventricular inotropy.
+            Effect is increased inotropy/lusitropy. (Shan et al., 2010)
+            Sympathetic stimuli with NE at SA node also leads to
+            increased myocardial interstitial levels of NE, which lead
+            to ventricular inotropy.
 
 <!-- -->
 
 a.  Electrical conduction
 
-    ix. Chronotropy/dromotropy
+    iv. Chronotropy/dromotropy
 
-        9.  SA node firing rate depends on "funny current", which has
+        1.  SA node firing rate depends on "funny current", which has
             inward-rectifying Na+ current that leads to depolarization
             through the hyperpolarization-activated cyclic
             nucleotide-gated channel (HCN). Sympathetic tone leads to
@@ -436,15 +409,17 @@ a.  Electrical conduction
             spontaneous SA depolarization rate, and sarcoplasmic
             reticulum release of Ca++, as well increased depolarization
             through other neuronal bundles (e.g. His bundle, AV node,
-            etc). ^52,60^
+            etc). (Franzoso et al., 2016; Liao, Lockhead, Larson, &
+            Proenza, 2010)
 
-    x.  Repolarization
+    v.  Repolarization
 
-        10. Effective refractory period (ERP) are shorted by sympathetic
+        2.  Effective refractory period (ERP) are shorted by sympathetic
             excitation, while sympathetic inhibition prolongs ERP...
-            similar in endocardium/epicardium. ^61^ Transmural
-            dispersion of repolarization also shortened by sympathetic
-            activity, prolonged by beta-blockade. ^62^
+            similar in endocardium/epicardium. (Martins & Zipes, 1980)
+            Transmural dispersion of repolarization also shortened by
+            sympathetic activity, prolonged by beta-blockade. (Dukes &
+            Vaughan Williams, 1984)
 
  CONCLUSION
 ===========
@@ -456,203 +431,264 @@ a.  Electrical conduction
  REFERENCES
 ===========
 
-1\. Ardell JL, Armour JA. Neurocardiology: Structure-Based function.
-*Compr Physiol*. 2016;6(4):1635-1653. doi:10.1002/cphy.c1500462. Malpas
-S. The rhythmicity of sympathetic nerve activity. *Prog Neurobiol*.
-1998;56(1):65-96. doi:10.1016/S0301-0082(98)00030-63. Vaseghi M, Zhou W,
-Shi J, et al. Sympathetic innervation of the anterior left ventricular
-wall by the right and left stellate ganglia. *Hear Rhythm*.
-2012;9(8):1303-1309. doi:10.1016/j.hrthm.2012.03.0524. Armour JA, Murphy
-DA, Yuan BX, Macdonald S, Hopkins DA. Gross and microscopic anatomy of
-the human intrinsic cardiac nervous system. *Anat Rec*.
-1997;247(2):289-298.
-doi:10.1002/(SICI)1097-0185(199702)247:2\<289::AID-AR15\>3.0.CO;2-L5.
-Pauza DH, Skripka V, Pauziene N, Stropus R. Morphology, distribution,
-and variability of the epicardiac neural ganglionated subplexuses in the
-human heart. *Anat Rec*. 2000;259(4):353-382.
-doi:10.1002/1097-0185(20000801)259:4\<353::AID-AR10\>3.0.CO;2-R6.
-Dolezel S, Gerová M, Gero J, Sládek T, Vasku J. Adrenergic innervation
-of the coronary arteries and the myocardium. *Acta Anat (Basel)*.
-1978;100(3):306-316.7. Pierpont GL, DeMaster EG, Reynolds S, Pederson J,
-Cohn JN. Ventricular myocardial catecholamines in primates. *J Lab Clin
-Med*. 1985;106(2):205-210.8. Momose M, Tyndale-Hines L, Bengel FM,
-Schwaiger M. How heterogeneous is the cardiac autonomic innervation?
-*Basic Res Cardiol*. 2001;96(6):539-546. doi:10.1007/s0039501700049.
-Morozumi T, Kusuoka H, Fukuchi K, et al. Myocardial
-iodine-123-metaiodobenzylguanidine images and autonomic nerve activity
-in normal subjects. *J Nucl Med*. 1997;38(1):49-52.10. Walker JL, Thames
-MD, Abboud FM, Mark AL, Kloppenstein HS. Preferential distribution of
-inhibitory cardiac receptors in the left ventricle of the dog. *Am J
-Physiol*. 1978;235(2):H188-H192. doi:10.1152/ajpheart.1978.235.2.H18811.
-Crick SJ, Anderson RH, Ho SY, Sheppard MN. Localisation and quantitation
-of autonomic innervation in the porcine heart II: endocardium,
-myocardium and epicardium. *J Anat*. 1999;195 ( Pt 3(3):359-373.
-doi:10.1046/j.1469-7580.1999.19530359.x12. Armour JA, Huang MH, Pelleg
-A, Sylvén C. Responsiveness of in situ canine nodose ganglion afferent
-neurones to epicardial mechanical or chemical stimuli. *Cardiovasc Res*.
-1994;28(8):1218-1225. doi:10.1093/cvr/28.8.121813. Bettoni M, Zimmermann
-M. Autonomic tone variations before the onset of paroxysmal atrial
-fibrillation. *Circulation*. 2002;105(23):2753-2759.14. Tomita T, Takei
-M, Saikawa Y, et al. Role of autonomic tone in the initiation and
-termination of paroxysmal atrial fibrillation in patients without
-structural heart disease. *J Cardiovasc Electrophysiol*.
-2003;14(6):559-564.15. Patterson E, Jackman WM, Beckman KJ, et al.
-Spontaneous pulmonary vein firing in man: relationship to
-tachycardia-pause early afterdepolarizations and triggered arrhythmia in
-canine pulmonary veins in vitro. *J Cardiovasc Electrophysiol*.
-2007;18(10):1067-1075. doi:10.1111/j.1540-8167.2007.00909.x16. Harris
-AS, Otero H, Bocage AJ. The induction of arrhythmias by sympathetic
-activity before and after occlusion of a coronary artery in the canine
-heart. *J Electrocardiol*. 1971;4(1):34-43.
-doi:10.1016/S0022-0736(71)80048-117. Kliks BR, Burgess MJ, Abildskov JA.
-Influence of sympathetic tone on ventricular fibrillation threshold
-during experimental coronary occlusion. *Am J Cardiol*.
-1975;36(1):45-49. doi:10.1016/0002-9149(75)90866-818. Schwartz PJ,
-Verrier RL, Lown B. Effect of stellectomy and vagotomy on ventricular
-refractoriness in dogs. *Circ Res*. 1977;40(6):536-540.
-doi:10.1161/01.RES.40.6.53619. Shimizu W, Antzelevitch C. Cellular basis
-for the ECG features of the LQT1 form of the long-QT syndrome: effects
-of beta-adrenergic agonists and antagonists and sodium channel blockers
-on transmural dispersion of repolarization and torsade de pointes.
-*Circulation*. 1998;98(21):2314-2322.20. McMahon NC, Drinkhill MJ,
-Hainsworth R. Vascular responses to stimulation of carotid, aortic and
-coronary artery baroreceptors with pulsatile and non-pulsatile pressures
-in anaesthetized dogs. *Exp Physiol*. 1996;81(6):969-981.
-doi:10.1113/expphysiol.1996.sp00399721. Drinkhill MJ, Mcmahon NC,
-Hainsworth R. Delayed sympathetic efferent responses to coronary
-baroreceptor unloading in anaesthetized dogs independent control of
-pressures to the aortic root , including the coronary arteries , the
-aortic arch and the carotid sinuses . Electrophysiological recordin.
-*Physiology*. 1996:261-269.22. Abe T, Morgan DA, Gutterman DD. Role of
-adenosine receptor subtypes in neural stunning of sympathetic coronary
-innervation. *Am J Physiol Circ Physiol*. 1997;272(1):H25-H34.
-doi:10.1152/ajpheart.1997.272.1.H2523. Di Carli MF, Tobes MC, Mangner T,
-et al. Effects of Cardiac Sympathetic Innervation on Coronary Blood
-Flow. *N Engl J Med*. 2002;336(17):1208-1216.
-doi:10.1056/nejm19970424336170324. Lever JD, Ahmed M, Irvine G.
-Neuromuscular and intercellular relationships in the coronary
-arterioles. A morphological and quantitative study by light and electron
-microscopy. *J Anat*. 1965;99(Pt 4):829-840.25. Murphree SS, Saffitz JE.
-Delineation of the distribution of beta-adrenergic receptor subtypes in
-canine myocardium. *Circ Res*. 1988;63(1):117-125.26. Baumgart D, Haude
-M, Görge G, et al. Augmented alpha-adrenergic constriction of
-atherosclerotic human coronary arteries. *Circulation*.
-1999;99(16):2090-2097.27. Zipes DP. Influence of myocardial ischemia and
-infarction on autonomic innervation of heart. *Circulation*.
-1990;82(4):1095-1105. doi:10.1161/01.CIR.82.4.109528. Herre JM, Wetstein
-L, Lin YL, Mills AS, Dae M, Thames MD. Effect of transmural versus
-nontransmural myocardial infarction on inducibility of ventricular
-arrhythmias during sympathetic stimulation in dogs. *J Am Coll Cardiol*.
-1988;11(2):414-421. doi:10.1016/0735-1097(88)90110-629. Barber MJ,
-Mueller TM, Davies BG, Gill RM, Zipes DP. Interruption of sympathetic
-and vagal-mediated afferent responses by transmural myocardial
-infarction. *Circulation*. 1985;72(3):623-631.30. Inoue H, Skale BT,
-Zipes DP. Effects of ischemia on cardiac afferent sympathetic and vagal
-reflexes in dog. *Am J Physiol Circ Physiol*. 1988;255(1):H26-H35.
-doi:10.1152/ajpheart.1988.255.1.H2631. Inoue H, Zipes DP. Time course of
-denervation of efferent sympathetic and vagal nerves after occlusion of
-the coronary artery in the canine heart. *Circ Res*.
-1988;62(6):1111-1120.32. Inoue H, Zipes DP. Results of sympathetic
-denervation in the canine heart: Supersensitivity that may be
-arrhythmogenic. *Circulation*. 1987;75(4):877-887.
-doi:10.1161/01.CIR.75.4.87733. Neely BH, Hageman GR. Differential
-cardiac sympathetic activity during acute myocardial ischemia. *Am J
-Physiol*. 1990;258(5 Pt 2):H1534-41.
-doi:10.1152/ajpheart.1990.258.5.H153434. Minisi AJ, Thames MD.
-Activation of cardiac sympathetic afferents during coronary occlusion.
-Evidence for reflex activation of sympathetic nervous system during
-transmural myocardial ischemia in the dog. *Circulation*.
-1991;84(1):357-367. doi:10.1161/01.CIR.84.1.35735. Minisi AJ, Thames MD.
-Distribution of left ventricular sympathetic afferents demonstrated by
-reflex responses to transmural myocardial ischemia and to intracoronary
-and epicardial bradykinin. *Circulation*. 1993;87(1):240-246.36.
-Hardwick JC, Ryan SE, Beaumont E, Ardell JL, Southerland EM. Dynamic
-remodeling of the guinea pig intrinsic cardiac plexus induced by chronic
-myocardial infarction. *Auton Neurosci Basic Clin*. 2014;181(1):4-12.
-doi:10.1016/j.autneu.2013.10.00837. Huang WA, Boyle NG, Vaseghi M.
-Cardiac Innervation and the Autonomic Nervous System in Sudden Cardiac
-Death. *Card Electrophysiol Clin*. 2017;9(4):665-679.
-doi:10.1016/j.ccep.2017.08.00238. Cao J-M, Chen LS, KenKnight BH, et al.
-Nerve Sprouting and Sudden Cardiac Death. *Circ Res*.
-2000;86(7):816-821. doi:10.1161/01.RES.86.7.81639. Chen PS, Chen LS, Cao
-JM, Sharifi B, Karagueuzian HS, Fishbein MC. Sympathetic nerve
-sprouting, electrical remodeling and the mechanisms of sudden cardiac
-death. *Cardiovasc Res*. 2001;50(2):409-416.
-doi:10.1016/s0008-6363(00)00308-440. Stramba-Badiale M, Vanoli E, De
-Ferrari GM, Cerati D, Foreman RD, Schwartz PJ.
-Sympathetic-parasympathetic interaction and accentuated antagonism in
-conscious dogs. *Am J Physiol Circ Physiol*. 1991;260(2):H335-H340.
-doi:10.1152/ajpheart.1991.260.2.H33541. Levy MN. *Brief Reviews
-Sympathetlc-Parasympathetic Interactions in the Heart*.; 1971.42. Brack
-KE, Patel VH, Coote JH, Ng GA. Nitric oxide mediates the vagal
-protective effect on ventricular fibrillation via effects on action
-potential duration restitution in the rabbit heart. *J Physiol*.
-2007;583(2):695-704. doi:10.1113/jphysiol.2007.13846143. Hoover DB,
-Isaacs ER, Jacques F, Hoard JL, Pagé P, Armour JA. Localization of
-multiple neurotransmitters in surgically derived specimens of human
-atrial ganglia. *Neuroscience*. 2009;164(3):1170-1179.
-doi:10.1016/j.neuroscience.2009.09.00144. Parsons RL, Locknar SA, Young
-BA, Hoard JL, Hoover DB. Presence and co-localization of vasoactive
-intestinal polypeptide with neuronal nitric oxide synthase in cells and
-nerve fibers within guinea pig intrinsic cardiac ganglia and cardiac
-tissue. *Cell Tissue Res*. 2006;323(2):197-209.
-doi:10.1007/s00441-005-0074-345. Pauza DH, Saburkina I, Rysevaite K, et
-al. Neuroanatomy of the murine cardiac conduction system. *Auton
-Neurosci*. 2013;176(1-2):32-47. doi:10.1016/j.autneu.2013.01.00646.
-Pauziene N, Alaburda P, Rysevaite-Kyguoliene K, et al. Innervation of
-the rabbit cardiac ventricles. *J Anat*. 2016;228(1):26-46.
-doi:10.1111/joa.1240047. Herring N, Lokale MN, Danson EJ, Heaton DA,
-Paterson DJ. Neuropeptide Y reduces acetylcholine release and vagal
-bradycardia via a Y2 receptor-mediated, protein kinase C-dependent
-pathway. *J Mol Cell Cardiol*. 2008;44(3):477-485.
-doi:10.1016/j.yjmcc.2007.10.00148. Herring N. Autonomic control of the
-heart: Going beyond the classical neurotransmitters. *Exp Physiol*.
-2015;100(4):354-358. doi:10.1113/expphysiol.2014.08018449. Rosano GMC,
-Tousoulis D, McFadden E, Clarke J, Davies GJ, Kaski JC. Effects of
-neuropeptide Y on coronary artery vasomotion in patients with
-microvascular angina. *Int J Cardiol*. 2017;238:123-127.
-doi:10.1016/j.ijcard.2017.03.02450. Herring N, Cranley J, Lokale MN, et
-al. The cardiac sympathetic co-transmitter galanin reduces acetylcholine
-release and vagal bradycardia: Implications for neural control of
-cardiac excitability. *J Mol Cell Cardiol*. 2012;52(3):667-676.
-doi:10.1016/j.yjmcc.2011.11.01651. Shcherbakova OG, Hurt CM, Xiang Y, et
-al. Organization of β-adrenoceptor signaling compartments by sympathetic
-innervation of cardiac myocytes. *J Cell Biol*. 2007;176(4):521-533.
-doi:10.1083/jcb.20060416752. Franzoso M, Zaglia T, Mongillo M. Putting
-together the clues of the everlasting neuro-cardiac liaison. *Biochim
-Biophys Acta - Mol Cell Res*. 2016;1863(7):1904-1915.
-doi:10.1016/j.bbamcr.2016.01.00953. Zaglia T, Milan G, Franzoso M, et
-al. Cardiac sympathetic neurons provide trophic signal to the heart via
-β2-adrenoceptor-dependent regulation of proteolysis. *Cardiovasc Res*.
-2013;97(2):240-250. doi:10.1093/cvr/cvs32054. Hirsch E, Hilfiker-Kleiner
-D, Balligand J-L, et al. Interaction of the heart and its close and
-distant neighbours: report of the Meeting of the ESC Working Groups
-Myocardial Function and Cellular Biology. *Cardiovasc Res*.
-2013;99(4):595-599. doi:10.1093/cvr/cvt17955. Liu Y, Yue WS, Liao SY, et
-al. Thoracic spinal cord stimulation improves cardiac contractile
-function and myocardial oxygen consumption in a porcine model of
-ischemic heart failure. *J Cardiovasc Electrophysiol*.
-2012;23(5):534-540. doi:10.1111/j.1540-8167.2011.02230.x56. Singh S,
-Sayers S, Walter JS, et al. Hypertrophy of neurons within cardiac
-ganglia in human, canine, and rat heart failure: the potential role of
-nerve growth factor. *J Am Heart Assoc*. 2013;2(4).
-doi:10.1161/JAHA.113.00021057. Beau SL, Tolley TK, Saffitz JE.
+Abe, T., Morgan, D. A., & Gutterman, D. D. (1997). Role of adenosine
+receptor subtypes in neural stunning of sympathetic coronary
+innervation. *American Journal of Physiology-Heart and Circulatory
+Physiology*, *272*(1), H25--H34.
+https://doi.org/10.1152/ajpheart.1997.272.1.H25Ardell, J. L., & Armour,
+J. A. (2016). Neurocardiology: Structure-Based function. *Comprehensive
+Physiology*, *6*(4), 1635--1653.
+https://doi.org/10.1002/cphy.c150046Armour, J. Andrew, Murphy, D. A.,
+Yuan, B. X., Macdonald, S., & Hopkins, D. A. (1997). Gross and
+microscopic anatomy of the human intrinsic cardiac nervous system.
+*Anatomical Record*, *247*(2), 289--298.
+https://doi.org/10.1002/(SICI)1097-0185(199702)247:2\<289::AID-AR15\>3.0.CO;2-LArmour,
+J A, Huang, M. H., Pelleg, A., & Sylvén, C. (1994). Responsiveness of in
+situ canine nodose ganglion afferent neurones to epicardial mechanical
+or chemical stimuli. *Cardiovascular Research*, *28*(8), 1218--1225.
+https://doi.org/10.1093/cvr/28.8.1218Barber, M. J., Mueller, T. M.,
+Davies, B. G., Gill, R. M., & Zipes, D. P. (1985). Interruption of
+sympathetic and vagal-mediated afferent responses by transmural
+myocardial infarction. *Circulation*, *72*(3), 623--631.Baumgart, D.,
+Haude, M., Görge, G., Liu, F., Ge, J., Grosse-Eggebrecht, C., ...
+Heusch, G. (1999). Augmented alpha-adrenergic constriction of
+atherosclerotic human coronary arteries. *Circulation*, *99*(16),
+2090--2097.Beau, S. L., Tolley, T. K., & Saffitz, J. E. (1993).
 Heterogeneous transmural distribution of β-adrenergic receptor subtypes
-in failing human hearts. *Circulation*. 1993;88(6):2501-2509.
-doi:10.1161/01.CIR.88.6.250158. Wang HJ, Rozanski GJ, Zucker IH. Cardiac
-sympathetic afferent reflex control of cardiac function in normal and
-chronic heart failure states. *J Physiol*. 2017;595(8):2519-2534.
-doi:10.1113/JP27376459. Shan J, Kushnir A, Betzenhauser MJ, et al.
-Phosphorylation of the ryanodine receptor mediates the cardiac fight or
-flight response in mice. *J Clin Invest*. 2010;120(12):4388-4398.
-doi:10.1172/JCI3272660. Liao Z, Lockhead D, Larson ED, Proenza C.
-Phosphorylation and modulation of hyperpolarization-activated HCN4
-channels by protein kinase A in the mouse sinoatrial node. *J Gen
-Physiol*. 2010;136(3):247-258. doi:10.1085/jgp.20101048861. Martins JB,
-Zipes DP. Effects of sympathetic and vagal nerves on recovery properties
-of the endocardium and epicardium of the canine left ventricle. *Circ
-Res*. 1980;46(1):100-110. doi:10.1161/01.RES.46.1.10062. Dukes ID,
-Vaughan Williams EM. Effects of selective alpha 1‐, alpha 2‐, beta 1‐and
-beta 2‐adrenoceptor stimulation on potentials and contractions in the
-rabbit heart. *J Physiol*. 1984;355(1):523-546.
-doi:10.1113/jphysiol.1984.sp015436
+in failing human hearts. *Circulation*, *88*(6), 2501--2509.
+https://doi.org/10.1161/01.CIR.88.6.2501Brack, K. E., Patel, V. H.,
+Coote, J. H., & Ng, G. A. (2007). Nitric oxide mediates the vagal
+protective effect on ventricular fibrillation via effects on action
+potential duration restitution in the rabbit heart. *Journal of
+Physiology*, *583*(2), 695--704.
+https://doi.org/10.1113/jphysiol.2007.138461Cao, J.-M., Chen, L. S.,
+KenKnight, B. H., Ohara, T., Lee, M.-H., Tsai, J., ... Chen, P.-S.
+(2000). Nerve Sprouting and Sudden Cardiac Death. *Circulation
+Research*, *86*(7), 816--821.
+https://doi.org/10.1161/01.RES.86.7.816Chen, P. S., Chen, L. S., Cao, J.
+M., Sharifi, B., Karagueuzian, H. S., & Fishbein, M. C. (2001).
+Sympathetic nerve sprouting, electrical remodeling and the mechanisms of
+sudden cardiac death. *Cardiovascular Research*, *50*(2), 409--416.
+https://doi.org/10.1016/s0008-6363(00)00308-4Crick, S. J., Anderson, R.
+H., Ho, S. Y., & Sheppard, M. N. (1999). Localisation and quantitation
+of autonomic innervation in the porcine heart II: endocardium,
+myocardium and epicardium. *Journal of Anatomy*, *195 ( Pt 3*(3),
+359--373. https://doi.org/10.1046/j.1469-7580.1999.19530359.xde Silva,
+R. A. (1989). John MacWilliam, evolutionary biology and sudden cardiac
+death. *Journal of the American College of Cardiology*, *14*(7),
+1843--1849. https://doi.org/10.1016/0735-1097(89)90041-7Di Carli, M. F.,
+Tobes, M. C., Mangner, T., Levine, A. B., Muzik, O., Chakroborty, P., &
+Levine, T. B. (2002). Effects of Cardiac Sympathetic Innervation on
+Coronary Blood Flow. *New England Journal of Medicine*, *336*(17),
+1208--1216. https://doi.org/10.1056/nejm199704243361703Dolezel, S.,
+Gerová, M., Gero, J., Sládek, T., & Vasku, J. (1978). Adrenergic
+innervation of the coronary arteries and the myocardium. *Acta
+Anatomica*, *100*(3), 306--316.Drinkhill, M. J., Mcmahon, N. C., &
+Hainsworth, R. (1996). Delayed sympathetic efferent responses to
+coronary baroreceptor unloading in anaesthetized dogs independent
+control of pressures to the aortic root , including the coronary
+arteries , the aortic arch and the carotid sinuses .
+Electrophysiological recordin. *Physiology*, 261--269.Dukes, I. D., &
+Vaughan Williams, E. M. (1984). Effects of selective alpha 1‐, alpha 2‐,
+beta 1‐and beta 2‐adrenoceptor stimulation on potentials and
+contractions in the rabbit heart. *The Journal of Physiology*, *355*(1),
+523--546. https://doi.org/10.1113/jphysiol.1984.sp015436Franzoso, M.,
+Zaglia, T., & Mongillo, M. (2016). Putting together the clues of the
+everlasting neuro-cardiac liaison. *Biochimica et Biophysica Acta -
+Molecular Cell Research*, *1863*(7), 1904--1915.
+https://doi.org/10.1016/j.bbamcr.2016.01.009Greene, W. A., Goldstein,
+S., & Moss, A. J. (1972). Psychosocial Aspects of Sudden Death: A
+Preliminary Report. *Archives of Internal Medicine*, *129*(5), 725--731.
+https://doi.org/10.1001/archinte.1972.00320050049005Hardwick, J. C.,
+Ryan, S. E., Beaumont, E., Ardell, J. L., & Southerland, E. M. (2014).
+Dynamic remodeling of the guinea pig intrinsic cardiac plexus induced by
+chronic myocardial infarction. *Autonomic Neuroscience: Basic and
+Clinical*, *181*(1), 4--12.
+https://doi.org/10.1016/j.autneu.2013.10.008Herre, J. M., Wetstein, L.,
+Lin, Y. L., Mills, A. S., Dae, M., & Thames, M. D. (1988). Effect of
+transmural versus nontransmural myocardial infarction on inducibility of
+ventricular arrhythmias during sympathetic stimulation in dogs. *Journal
+of the American College of Cardiology*, *11*(2), 414--421.
+https://doi.org/10.1016/0735-1097(88)90110-6Herring, N. (2015).
+Autonomic control of the heart: Going beyond the classical
+neurotransmitters. *Experimental Physiology*, *100*(4), 354--358.
+https://doi.org/10.1113/expphysiol.2014.080184Herring, N., Cranley, J.,
+Lokale, M. N., Li, D., Shanks, J., Alston, E. N., ... Paterson, D. J.
+(2012). The cardiac sympathetic co-transmitter galanin reduces
+acetylcholine release and vagal bradycardia: Implications for neural
+control of cardiac excitability. *Journal of Molecular and Cellular
+Cardiology*, *52*(3), 667--676.
+https://doi.org/10.1016/j.yjmcc.2011.11.016Herring, N., Lokale, M. N.,
+Danson, E. J., Heaton, D. A., & Paterson, D. J. (2008). Neuropeptide Y
+reduces acetylcholine release and vagal bradycardia via a Y2
+receptor-mediated, protein kinase C-dependent pathway. *Journal of
+Molecular and Cellular Cardiology*, *44*(3), 477--485.
+https://doi.org/10.1016/j.yjmcc.2007.10.001Hirsch, E., Hilfiker-Kleiner,
+D., Balligand, J.-L., Tarone, G., De Windt, L., Bauersachs, J., ...
+Schulz, R. (2013). Interaction of the heart and its close and distant
+neighbours: report of the Meeting of the ESC Working Groups Myocardial
+Function and Cellular Biology. *Cardiovascular Research*, *99*(4),
+595--599. https://doi.org/10.1093/cvr/cvt179Hoover, D. B., Isaacs, E.
+R., Jacques, F., Hoard, J. L., Pagé, P., & Armour, J. A. (2009).
+Localization of multiple neurotransmitters in surgically derived
+specimens of human atrial ganglia. *Neuroscience*, *164*(3), 1170--1179.
+https://doi.org/10.1016/j.neuroscience.2009.09.001Huang, W. A., Boyle,
+N. G., & Vaseghi, M. (2017). Cardiac Innervation and the Autonomic
+Nervous System in Sudden Cardiac Death. *Cardiac Electrophysiology
+Clinics*. https://doi.org/10.1016/j.ccep.2017.08.002Inoue, H., Skale, B.
+T., & Zipes, D. P. (1988). Effects of ischemia on cardiac afferent
+sympathetic and vagal reflexes in dog. *American Journal of
+Physiology-Heart and Circulatory Physiology*, *255*(1), H26--H35.
+https://doi.org/10.1152/ajpheart.1988.255.1.H26Inoue, H., & Zipes, D. P.
+(1987). Results of sympathetic denervation in the canine heart:
+Supersensitivity that may be arrhythmogenic. *Circulation*, *75*(4),
+877--887. https://doi.org/10.1161/01.CIR.75.4.877Inoue, H., & Zipes, D.
+P. (1988). Time course of denervation of efferent sympathetic and vagal
+nerves after occlusion of the coronary artery in the canine heart.
+*Circulation Research*, *62*(6), 1111--1120.Kliks, B. R., Burgess, M.
+J., & Abildskov, J. A. (1975). Influence of sympathetic tone on
+ventricular fibrillation threshold during experimental coronary
+occlusion. *The American Journal of Cardiology*, *36*(1), 45--49.
+https://doi.org/10.1016/0002-9149(75)90866-8Kolman, B. S., Verrier, R.
+L., & Lown, B. (1975). The effect of vagus nerve stimulation upon
+vulnerability of the canine ventricle. *Circulation*, *52*(4), 578--585.
+https://doi.org/10.1161/01.CIR.52.4.578Lever, J. D., Ahmed, M., &
+Irvine, G. (1965). Neuromuscular and intercellular relationships in the
+coronary arterioles. A morphological and quantitative study by light and
+electron microscopy. *Journal of Anatomy*, *99*(Pt 4), 829--840.Levy, M.
+N. (1971). *Brief Reviews Sympathetlc-Parasympathetic Interactions in
+the Heart*. *Circulation Research An Official Journal of the American MI
+ear t Association*.Liao, Z., Lockhead, D., Larson, E. D., & Proenza, C.
+(2010). Phosphorylation and modulation of hyperpolarization-activated
+HCN4 channels by protein kinase A in the mouse sinoatrial node. *The
+Journal of General Physiology*, *136*(3), 247--258.
+https://doi.org/10.1085/jgp.201010488Liu, Y., Yue, W. S., Liao, S. Y.,
+Zhang, Y., Au, K. W., Shuto, C., ... Tse, H. F. (2012). Thoracic spinal
+cord stimulation improves cardiac contractile function and myocardial
+oxygen consumption in a porcine model of ischemic heart failure.
+*Journal of Cardiovascular Electrophysiology*, *23*(5), 534--540.
+https://doi.org/10.1111/j.1540-8167.2011.02230.xLown, B., Verrier, R.
+L., & Rabinowitz, S. H. (1977). Neural and psychologic mechanisms and
+the problem of sudden cardiac death. *The American Journal of
+Cardiology*, *39*(6), 890--902.
+https://doi.org/10.1016/S0002-9149(77)80044-1Malpas, S. (1998). The
+rhythmicity of sympathetic nerve activity. *Progress in Neurobiology*,
+*56*(1), 65--96. https://doi.org/10.1016/S0301-0082(98)00030-6Martins,
+J. B., & Zipes, D. P. (1980). Effects of sympathetic and vagal nerves on
+recovery properties of the endocardium and epicardium of the canine left
+ventricle. *Circulation Research*, *46*(1), 100--110.
+https://doi.org/10.1161/01.RES.46.1.100Matta, R. J., Lawler, J. E.,
+Lown, B., & Boston, F. (n.d.). *EXPERIMENTAL STUDIES Ventricular
+Electrical Instability in the Conscious Dog Effects of Psychologic
+Stress and Beta Adrenergic Blockade*.McMahon, N. C., Drinkhill, M. J., &
+Hainsworth, R. (1996). Vascular responses to stimulation of carotid,
+aortic and coronary artery baroreceptors with pulsatile and
+non-pulsatile pressures in anaesthetized dogs. *Experimental
+Physiology*, *81*(6), 969--981.
+https://doi.org/10.1113/expphysiol.1996.sp003997Minisi, A J, & Thames,
+M. D. (1993). Distribution of left ventricular sympathetic afferents
+demonstrated by reflex responses to transmural myocardial ischemia and
+to intracoronary and epicardial bradykinin. *Circulation*, *87*(1),
+240--246.Minisi, Anthony J, & Thames, M. D. (1991a). Activation of
+cardiac sympathetic afferents during coronary occlusion. Evidence for
+reflex activation of sympathetic nervous system during transmural
+myocardial ischemia in the dog. *Circulation*, *84*(1), 357--367.
+https://doi.org/10.1161/01.CIR.84.1.357Minisi, Anthony J, & Thames, M.
+D. (1991b). Activation of cardiac sympathetic afferents during coronary
+occlusion. Evidence for reflex activation of sympathetic nervous system
+during transmural myocardial ischemia in the dog. *Circulation*,
+*84*(1), 357--367. https://doi.org/10.1161/01.CIR.84.1.357Momose, M.,
+Tyndale-Hines, L., Bengel, F. M., & Schwaiger, M. (2001). How
+heterogeneous is the cardiac autonomic innervation? *Basic Research in
+Cardiology*, *96*(6), 539--546.
+https://doi.org/10.1007/s003950170004Morozumi, T., Kusuoka, H., Fukuchi,
+K., Tani, A., Uehara, T., Matsuda, S., ... Nishimura, T. (1997).
+Myocardial iodine-123-metaiodobenzylguanidine images and autonomic nerve
+activity in normal subjects. *Journal of Nuclear Medicine : Official
+Publication, Society of Nuclear Medicine*, *38*(1), 49--52.Murphree, S.
+S., & Saffitz, J. E. (1988). Delineation of the distribution of
+beta-adrenergic receptor subtypes in canine myocardium. *Circulation
+Research*, *63*(1), 117--125.Neely, B. H., & Hageman, G. R. (1990).
+Differential cardiac sympathetic activity during acute myocardial
+ischemia. *The American Journal of Physiology*, *258*(5 Pt 2), H1534-41.
+https://doi.org/10.1152/ajpheart.1990.258.5.H1534Parsons, R. L.,
+Locknar, S. A., Young, B. A., Hoard, J. L., & Hoover, D. B. (2006).
+Presence and co-localization of vasoactive intestinal polypeptide with
+neuronal nitric oxide synthase in cells and nerve fibers within guinea
+pig intrinsic cardiac ganglia and cardiac tissue. *Cell and Tissue
+Research*, *323*(2), 197--209.
+https://doi.org/10.1007/s00441-005-0074-3Pauza, D. H., Saburkina, I.,
+Rysevaite, K., Inokaitis, H., Jokubauskas, M., Jalife, J., & Pauziene,
+N. (2013). Neuroanatomy of the murine cardiac conduction system.
+*Autonomic Neuroscience*, *176*(1--2), 32--47.
+https://doi.org/10.1016/j.autneu.2013.01.006Pauza, D. H., Skripka, V.,
+Pauziene, N., & Stropus, R. (2000). Morphology, distribution, and
+variability of the epicardiac neural ganglionated subplexuses in the
+human heart. *Anatomical Record*, *259*(4), 353--382.
+https://doi.org/10.1002/1097-0185(20000801)259:4\<353::AID-AR10\>3.0.CO;2-RPauziene,
+N., Alaburda, P., Rysevaite-Kyguoliene, K., Pauza, A. G., Inokaitis, H.,
+Masaityte, A., ... Pauza, D. H. (2016). Innervation of the rabbit
+cardiac ventricles. *Journal of Anatomy*, *228*(1), 26--46.
+https://doi.org/10.1111/joa.12400Pierpont, G. L., DeMaster, E. G.,
+Reynolds, S., Pederson, J., & Cohn, J. N. (1985). Ventricular myocardial
+catecholamines in primates. *The Journal of Laboratory and Clinical
+Medicine*, *106*(2), 205--210.Rahe, R. H., Bennett, L., Romo, M.,
+Siltanen, P., & Arthur, R. J. (1973). Subjects' recent life changes and
+coronary heart disease in Finland. *American Journal of Psychiatry*,
+*130*(11), 1222--1226. https://doi.org/10.1176/ajp.130.11.1222Rosano, G.
+M. C., Tousoulis, D., McFadden, E., Clarke, J., Davies, G. J., & Kaski,
+J. C. (2017). Effects of neuropeptide Y on coronary artery vasomotion in
+patients with microvascular angina. *International Journal of
+Cardiology*, *238*, 123--127.
+https://doi.org/10.1016/j.ijcard.2017.03.024Schwartz, P. J., Verrier, R.
+L., & Lown, B. (1977). Effect of stellectomy and vagotomy on ventricular
+refractoriness in dogs. *Circulation Research*, *40*(6), 536--540.
+https://doi.org/10.1161/01.RES.40.6.536Schwartz, Peter J, De Ferrari, G.
+M., & Pugliese, L. (2017). Cardiac sympathetic denervation 100 years
+later: Jonnesco would have never believed it. *International Journal of
+Cardiology*, *237*, 25--28.
+https://doi.org/10.1016/j.ijcard.2017.03.020Shan, J., Kushnir, A.,
+Betzenhauser, M. J., Reiken, S., Li, J., Lehnart, S. E., ... Marks, A.
+R. (2010). Phosphorylation of the ryanodine receptor mediates the
+cardiac fight or flight response in mice. *Journal of Clinical
+Investigation*, *120*(12), 4388--4398.
+https://doi.org/10.1172/JCI32726Shcherbakova, O. G., Hurt, C. M., Xiang,
+Y., Dell'Acqua, M. L., Zhang, Q., Tsien, R. W., & Kobilka, B. K. (2007).
+Organization of β-adrenoceptor signaling compartments by sympathetic
+innervation of cardiac myocytes. *Journal of Cell Biology*, *176*(4),
+521--533. https://doi.org/10.1083/jcb.200604167Singh, S., Sayers, S.,
+Walter, J. S., Thomas, D., Dieter, R. S., Nee, L. M., & Wurster, R. D.
+(2013). Hypertrophy of neurons within cardiac ganglia in human, canine,
+and rat heart failure: the potential role of nerve growth factor.
+*Journal of the American Heart Association*, *2*(4).
+https://doi.org/10.1161/JAHA.113.000210Stramba-Badiale, M., Vanoli, E.,
+De Ferrari, G. M., Cerati, D., Foreman, R. D., & Schwartz, P. J. (1991).
+Sympathetic-parasympathetic interaction and accentuated antagonism in
+conscious dogs. *American Journal of Physiology-Heart and Circulatory
+Physiology*, *260*(2), H335--H340.
+https://doi.org/10.1152/ajpheart.1991.260.2.H335Vaseghi, M., Zhou, W.,
+Shi, J., Ajijola, O. A., Hadaya, J., Shivkumar, K., & Mahajan, A.
+(2012). Sympathetic innervation of the anterior left ventricular wall by
+the right and left stellate ganglia. *Heart Rhythm*, *9*(8), 1303--1309.
+https://doi.org/10.1016/j.hrthm.2012.03.052Walker, J. L., Thames, M. D.,
+Abboud, F. M., Mark, A. L., & Kloppenstein, H. S. (1978). Preferential
+distribution of inhibitory cardiac receptors in the left ventricle of
+the dog. *American Journal of Physiology*, *235*(2), H188--H192.
+https://doi.org/10.1152/ajpheart.1978.235.2.H188Wang, H. J., Rozanski,
+G. J., & Zucker, I. H. (2017). Cardiac sympathetic afferent reflex
+control of cardiac function in normal and chronic heart failure states.
+*Journal of Physiology*, *595*(8), 2519--2534.
+https://doi.org/10.1113/JP273764Yannopoulos, D., Bartos, J. A.,
+Aufderheide, T. P., Callaway, C. W., Deo, R., Garcia, S., ...
+Raveendran, G. (2019). The Evolving Role of the Cardiac Catheterization
+Laboratory in the Management of Patients With Out-of-Hospital Cardiac
+Arrest Circulation. *Circulation*, *139*, 530--552.
+https://doi.org/10.1161/CIR.0000000000000630Zaglia, T., Milan, G.,
+Franzoso, M., Bertaggia, E., Pianca, N., Piasentini, E., ... Mongillo,
+M. (2013). Cardiac sympathetic neurons provide trophic signal to the
+heart via β2-adrenoceptor-dependent regulation of proteolysis.
+*Cardiovascular Research*, *97*(2), 240--250.
+https://doi.org/10.1093/cvr/cvs320Zipes, D. P. (1990). Influence of
+myocardial ischemia and infarction on autonomic innervation of heart.
+*Circulation*, *82*(4), 1095--1105.
+https://doi.org/10.1161/01.CIR.82.4.1095
