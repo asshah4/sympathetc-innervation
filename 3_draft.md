@@ -263,13 +263,19 @@ discuss in the next section.
  EFFECT OF CATECHOLAMINES
 =========================
 
+The heart has a unique and appropriate physiologic response to increased
+demands. In the setting of arousal, either emotional or from
+environmental triggers, the heart orchestrates a robust response, as it
+is able to augment its cardiac output two-fold, upwards of 10 L/min. It
+does this through both system and local responses to catecholamines.
+
 1.  Catecholamine-based necrosis
 
     a.  Malignant effects of catecholamines
 
         i.  Takotsubo to discuss apical ballooning
 
-            1.  Mortality with Takotsubo is same with traditional AcS
+            1.  Mortality with Takotsubo is same with traditional ACS
 
         ii. Wellen's T waves occur in setting of significant apical NE
             levels
