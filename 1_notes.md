@@ -1,5 +1,5 @@
  NOTES: THE SYMPATHETIC INNERVATION OF THE HEART
-================================================
+===============================================
 
 Anatomy
 -------
@@ -626,20 +626,18 @@ Diseases
         sympathetic nerve sprouting occurs. (Cao et al., 2000; Chen et
         al., 2001)
 
-    t.  
-
 5.  Stellate block
 
-    u.  After stellate/spinal block, anesthesia-induced hypotension
+    t.  After stellate/spinal block, anesthesia-induced hypotension
         won't correct for low-pressure baroreceptor stimuli (vagal
         afferent), leaving unopposed vagal tone. (Crystal & Salem, 2012)
 
-    v.  Left versus right block (on healthy/controls) showed no change
+    u.  Left versus right block (on healthy/controls) showed no change
         in EF. LSG block however led to increased LVEDP and LVESP
         compared to right. (Lobato, Kern, Paige, Brown, & Sulek, 2000)
 
  REFERENCES
-===========
+==========
 
 Armando, I., Goldstein, D. S., Kirk, K. L., Dunn, B. B., Eisenhofer, G.,
 Lenders, J., ... Herscovitch, P. (2010). *Positron emission tomographic
