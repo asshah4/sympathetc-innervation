@@ -1,7 +1,7 @@
  DRAFT: THE SYMPATHETIC INNERVATION OF THE HEART
-===============================================
+================================================
 
-Title: The Sympathetic Innervation of the Heart -- a Clinical Review
+Title: The Sympathetic Innervation of the Heart – a Clinical Review
 
 Authors: Anish Shah, MD; Amit Shah, MD, MSCR; Puja Mehta, MD; Marc
 Thames, MD
@@ -9,12 +9,14 @@ Thames, MD
 Affiliations: Emory University School of Medicine, Atlanta, Georgia
 
  
+=
 
- INTRODUCTION
+\
+INTRODUCTION
 ============
 
 The human sympathetic nervous system, the master and commander of the
-"fight or flight" response, has not adapted adequately to human disease.
+“fight or flight” response, has not adapted adequately to human disease.
 It is the culprit in multiple pathological states, particularly that of
 the heart. The sympathetic innervation of the heart is part of the
 connection between the brain and the heart and it is inherent to
@@ -115,7 +117,8 @@ ventricles, sympathetic afferent neurons are the main sensory neurons.
 They are triggered by predominately chemical stimuli, but also by
 mechanical stimuli.^12^
 
- VENTRICULAR FIBRILLATORY THRESHOLD
+\
+VENTRICULAR FIBRILLATORY THRESHOLD
 ==================================
 
 Over 100 years ago, John MacWilliam proposed that VF was the mechanism
@@ -147,10 +150,10 @@ sudden death preceded acute and chronic emotional events.^19,20^
 The evolutionary purpose of sympathetic outflow to the heart allows for
 a by-product, the decrease in the VF threshold that is seen with
 stellate stimulation . Its physiologic role however is related to the
-original "fight or flight" response. Studies focused on the stellate
+original “fight or flight” response. Studies focused on the stellate
 ganglia helped to delineate the specific actions the SNS had upon the
 heart. The basic responses of the heart are inotropy (increased
-"squeeze"), lusitropy (improved relaxation), chronotropy (increased
+“squeeze”), lusitropy (improved relaxation), chronotropy (increased
 sinoatrial firing), and dromotropy (improved nerve conduction). There is
 an element of handed-ness to the innervation, such that the right and
 left stellate ganglia have differing effects, in part because of
@@ -162,7 +165,8 @@ to compensatory contralateral activation.^15^ Bilateral stellectomy
 though has a well-established effect of increased the resilience of the
 heart to VT and VF.^21^
 
- CORONARY PERFUSION
+\
+CORONARY PERFUSION
 ==================
 
 In an out-of-hospital cardiac arrests, ST-segment elevations after VT or
@@ -229,7 +233,8 @@ Not only does myocardial ischemia and infarction lead to changes in
 innervation, but also in receptor density and response, which we will
 discuss in the next section.
 
- EFFECT OF CATECHOLAMINES
+\
+EFFECT OF CATECHOLAMINES
 ========================
 
 The expected physiologic response to increased demands, through physical
@@ -242,7 +247,7 @@ effect of NE at the SA and AV node leads to increases in chronotropy
 (heart rate) and dromotropy (speed of conduction).^41,42^ However, at
 supraphysiologic levels, pathology develops.
 
-Takotsubo cardiomyopathy, the "broken heart" syndrome, is a clinical
+Takotsubo cardiomyopathy, the “broken heart” syndrome, is a clinical
 entity well-known for the role of SNS overactivity, characterized by
 apical hypokinesis. Situations that cause sympathetic hyperactivation,
 from elevated intracranial pressure, pheochromocytoma crises, and
@@ -250,8 +255,8 @@ emotionally devastating events, cause both increased systemic and
 cardiac sympathetic outflow can lead to a stress cardiomyopathy.^43,44^
 But is it systemic NE or local NE that leads to these findings? There
 are two paths the sympathetic branch takes to reach the apex of the
-heart -- through the coronary artery system and direct innervation of
-the myocardium. Understanding the location and density of adrenergic
+heart – through the coronary artery system and direct innervation of the
+myocardium. Understanding the location and density of adrenergic
 receptors helps to theorize how catecholamine-excess states leads to
 cardiac pathology. Above, we discussed the receptor locations within the
 coronary arteries, and here we will discuss the importance of receptor
@@ -273,7 +278,7 @@ coronary vasospasm could lead to apical toxicity, however A1AR and B1AR
 within the coronary vessels do not cause cardiomyocyte necrosis, which
 is seen in Takotsubo syndrome with contraction band necrosis.^48,49^ The
 apex may be more vulnerable to NE overactivation due to the scarcity of
-available adrenergic receptors, leading to relatively "earlier"
+available adrenergic receptors, leading to relatively “earlier”
 saturation of receptors compared to more proximal parts of the heart.
 
 The adrenergic and vagal neurotransmitters interact locally, with each
@@ -322,7 +327,8 @@ however, this leads to increased vasoconstriction, leading to the high
 systemic vascular resistance or afterload that is seen in the end-stage
 heart failure population.^62^
 
- CONCLUSION
+\
+CONCLUSION
 ==========
 
 The sympathetic outflow to the heart has important implications both
@@ -338,198 +344,281 @@ the sympathetic nervous system to a clinical audience, allowing a better
 and more nuanced understanding of the importance of this branch of the
 autonomic nervous system in cardiac pathology.
 
- REFERENCES
+\
+REFERENCES
 ==========
 
 1\. Ardell JL, Armour JA. Neurocardiology: Structure-Based function.
-*Compr Physiol*. 2016;6(4):1635-1653. doi:10.1002/cphy.c1500462. Malpas
-S. The rhythmicity of sympathetic nerve activity. *Prog Neurobiol*.
-1998;56(1):65-96. doi:10.1016/S0301-0082(98)00030-63. Vaseghi M, Zhou W,
-Shi J, et al. Sympathetic innervation of the anterior left ventricular
-wall by the right and left stellate ganglia. *Hear Rhythm*.
-2012;9(8):1303-1309. doi:10.1016/j.hrthm.2012.03.0524. Armour JA, Murphy
-DA, Yuan BX, Macdonald S, Hopkins DA. Gross and microscopic anatomy of
-the human intrinsic cardiac nervous system. *Anat Rec*.
-1997;247(2):289-298.
-doi:10.1002/(SICI)1097-0185(199702)247:2\<289::AID-AR15\>3.0.CO;2-L5.
-Pauza DH, Skripka V, Pauziene N, Stropus R. Morphology, distribution,
+*Compr Physiol*. 2016;6(4):1635-1653. doi:10.1002/cphy.c150046
+
+2\. Malpas S. The rhythmicity of sympathetic nerve activity. *Prog
+Neurobiol*. 1998;56(1):65-96. doi:10.1016/S0301-0082(98)00030-6
+
+3\. Vaseghi M, Zhou W, Shi J, et al. Sympathetic innervation of the
+anterior left ventricular wall by the right and left stellate ganglia.
+*Hear Rhythm*. 2012;9(8):1303-1309. doi:10.1016/j.hrthm.2012.03.052
+
+4\. Armour JA, Murphy DA, Yuan BX, Macdonald S, Hopkins DA. Gross and
+microscopic anatomy of the human intrinsic cardiac nervous system. *Anat
+Rec*. 1997;247(2):289-298.
+doi:10.1002/(SICI)1097-0185(199702)247:2&lt;289::AID-AR15&gt;3.0.CO;2-L
+
+5\. Pauza DH, Skripka V, Pauziene N, Stropus R. Morphology, distribution,
 and variability of the epicardiac neural ganglionated subplexuses in the
 human heart. *Anat Rec*. 2000;259(4):353-382.
-doi:10.1002/1097-0185(20000801)259:4\<353::AID-AR10\>3.0.CO;2-R6.
-Dolezel S, Gerová M, Gero J, Sládek T, Vasku J. Adrenergic innervation
-of the coronary arteries and the myocardium. *Acta Anat (Basel)*.
-1978;100(3):306-316.7. Pierpont GL, DeMaster EG, Reynolds S, Pederson J,
-Cohn JN. Ventricular myocardial catecholamines in primates. *J Lab Clin
-Med*. 1985;106(2):205-210.8. Momose M, Tyndale-Hines L, Bengel FM,
-Schwaiger M. How heterogeneous is the cardiac autonomic innervation?
-*Basic Res Cardiol*. 2001;96(6):539-546. doi:10.1007/s0039501700049.
-Morozumi T, Kusuoka H, Fukuchi K, et al. Myocardial
+doi:10.1002/1097-0185(20000801)259:4&lt;353::AID-AR10&gt;3.0.CO;2-R
+
+6\. Dolezel S, Gerová M, Gero J, Sládek T, Vasku J. Adrenergic
+innervation of the coronary arteries and the myocardium. *Acta Anat
+(Basel)*. 1978;100(3):306-316.
+
+7\. Pierpont GL, DeMaster EG, Reynolds S, Pederson J, Cohn JN.
+Ventricular myocardial catecholamines in primates. *J Lab Clin Med*.
+1985;106(2):205-210.
+
+8\. Momose M, Tyndale-Hines L, Bengel FM, Schwaiger M. How heterogeneous
+is the cardiac autonomic innervation? *Basic Res Cardiol*.
+2001;96(6):539-546. doi:10.1007/s003950170004
+
+9\. Morozumi T, Kusuoka H, Fukuchi K, et al. Myocardial
 iodine-123-metaiodobenzylguanidine images and autonomic nerve activity
-in normal subjects. *J Nucl Med*. 1997;38(1):49-52.10. Walker JL, Thames
-MD, Abboud FM, Mark AL, Kloppenstein HS. Preferential distribution of
-inhibitory cardiac receptors in the left ventricle of the dog. *Am J
-Physiol*. 1978;235(2):H188-H192. doi:10.1152/ajpheart.1978.235.2.H18811.
-Crick SJ, Anderson RH, Ho SY, Sheppard MN. Localisation and quantitation
-of autonomic innervation in the porcine heart II: endocardium,
-myocardium and epicardium. *J Anat*. 1999;195 ( Pt 3(3):359-373.
-doi:10.1046/j.1469-7580.1999.19530359.x12. Armour JA, Huang MH, Pelleg
-A, Sylvén C. Responsiveness of in situ canine nodose ganglion afferent
-neurones to epicardial mechanical or chemical stimuli. *Cardiovasc Res*.
-1994;28(8):1218-1225. doi:10.1093/cvr/28.8.121813. de Silva RA. John
-MacWilliam, evolutionary biology and sudden cardiac death. *J Am Coll
-Cardiol*. 1989;14(7):1843-1849. doi:10.1016/0735-1097(89)90041-714.
-Schwartz PJ, De Ferrari GM, Pugliese L. Cardiac sympathetic denervation
-100 years later: Jonnesco would have never believed it. *Int J Cardiol*.
-2017;237:25-28. doi:10.1016/j.ijcard.2017.03.02015. Schwartz PJ, Verrier
-RL, Lown B. Effect of stellectomy and vagotomy on ventricular
-refractoriness in dogs. *Circ Res*. 1977;40(6):536-540.
-doi:10.1161/01.RES.40.6.53616. Kolman BS, Verrier RL, Lown B. The effect
-of vagus nerve stimulation upon vulnerability of the canine ventricle.
-*Circulation*. 1975;52(4):578-585. doi:10.1161/01.CIR.52.4.57817. Lown
-B, Verrier RL, Rabinowitz SH. Neural and psychologic mechanisms and the
-problem of sudden cardiac death. *Am J Cardiol*. 1977;39(6):890-902.
-doi:10.1016/S0002-9149(77)80044-118. Matta RJ, Lawler JE, Lown B.
-Ventricular electrical instability in the conscious dog. *Am J Cardiol*.
-1976;38(5):594-598. doi:10.1016/S0002-9149(76)80008-219. Rahe RH,
-Bennett L, Romo M, Siltanen P, Arthur RJ. Subjects' recent life changes
-and coronary heart disease in Finland. *Am J Psychiatry*.
-1973;130(11):1222-1226. doi:10.1176/ajp.130.11.122220. Greene WA,
-Goldstein S, Moss AJ. Psychosocial Aspects of Sudden Death: A
-Preliminary Report. *Arch Intern Med*. 1972;129(5):725-731.
-doi:10.1001/archinte.1972.0032005004900521. Kliks BR, Burgess MJ,
-Abildskov JA. Influence of sympathetic tone on ventricular fibrillation
-threshold during experimental coronary occlusion. *Am J Cardiol*.
-1975;36(1):45-49. doi:10.1016/0002-9149(75)90866-822. Yannopoulos D,
-Bartos JA, Aufderheide TP, et al. The Evolving Role of the Cardiac
-Catheterization Laboratory in the Management of Patients With
-Out-of-Hospital Cardiac Arrest Circulation. *Circulation*.
-2019;139:530-552. doi:10.1161/CIR.000000000000063023. McMahon NC,
-Drinkhill MJ, Hainsworth R. Vascular responses to stimulation of
-carotid, aortic and coronary artery baroreceptors with pulsatile and
-non-pulsatile pressures in anaesthetized dogs. *Exp Physiol*.
-1996;81(6):969-981. doi:10.1113/expphysiol.1996.sp00399724. Drinkhill
-MJ, Mcmahon NC, Hainsworth R. Delayed sympathetic efferent responses to
-coronary baroreceptor unloading in anaesthetized dogs independent
-control of pressures to the aortic root , including the coronary
-arteries , the aortic arch and the carotid sinuses .
-Electrophysiological recordin. *Physiology*. 1996:261-269.25. Lever JD,
-Ahmed M, Irvine G. Neuromuscular and intercellular relationships in the
-coronary arterioles. A morphological and quantitative study by light and
-electron microscopy. *J Anat*. 1965;99(Pt 4):829-840.26. Murphree SS,
-Saffitz JE. Delineation of the distribution of beta-adrenergic receptor
-subtypes in canine myocardium. *Circ Res*. 1988;63(1):117-125.27.
-Baumgart D, Haude M, Görge G, et al. Augmented alpha-adrenergic
+in normal subjects. *J Nucl Med*. 1997;38(1):49-52.
+
+10\. Walker JL, Thames MD, Abboud FM, Mark AL, Kloppenstein HS.
+Preferential distribution of inhibitory cardiac receptors in the left
+ventricle of the dog. *Am J Physiol*. 1978;235(2):H188-H192.
+doi:10.1152/ajpheart.1978.235.2.H188
+
+11\. Crick SJ, Anderson RH, Ho SY, Sheppard MN. Localisation and
+quantitation of autonomic innervation in the porcine heart II:
+endocardium, myocardium and epicardium. *J Anat*. 1999;195 ( Pt
+3(3):359-373. doi:10.1046/j.1469-7580.1999.19530359.x
+
+12\. Armour JA, Huang MH, Pelleg A, Sylvén C. Responsiveness of in situ
+canine nodose ganglion afferent neurones to epicardial mechanical or
+chemical stimuli. *Cardiovasc Res*. 1994;28(8):1218-1225.
+doi:10.1093/cvr/28.8.1218
+
+13\. de Silva RA. John MacWilliam, evolutionary biology and sudden
+cardiac death. *J Am Coll Cardiol*. 1989;14(7):1843-1849.
+doi:10.1016/0735-1097(89)90041-7
+
+14\. Schwartz PJ, De Ferrari GM, Pugliese L. Cardiac sympathetic
+denervation 100 years later: Jonnesco would have never believed it. *Int
+J Cardiol*. 2017;237:25-28. doi:10.1016/j.ijcard.2017.03.020
+
+15\. Schwartz PJ, Verrier RL, Lown B. Effect of stellectomy and vagotomy
+on ventricular refractoriness in dogs. *Circ Res*. 1977;40(6):536-540.
+doi:10.1161/01.RES.40.6.536
+
+16\. Kolman BS, Verrier RL, Lown B. The effect of vagus nerve stimulation
+upon vulnerability of the canine ventricle. *Circulation*.
+1975;52(4):578-585. doi:10.1161/01.CIR.52.4.578
+
+17\. Lown B, Verrier RL, Rabinowitz SH. Neural and psychologic mechanisms
+and the problem of sudden cardiac death. *Am J Cardiol*.
+1977;39(6):890-902. doi:10.1016/S0002-9149(77)80044-1
+
+18\. Matta RJ, Lawler JE, Lown B. Ventricular electrical instability in
+the conscious dog. *Am J Cardiol*. 1976;38(5):594-598.
+doi:10.1016/S0002-9149(76)80008-2
+
+19\. Rahe RH, Bennett L, Romo M, Siltanen P, Arthur RJ. Subjects’ recent
+life changes and coronary heart disease in Finland. *Am J Psychiatry*.
+1973;130(11):1222-1226. doi:10.1176/ajp.130.11.1222
+
+20\. Greene WA, Goldstein S, Moss AJ. Psychosocial Aspects of Sudden
+Death: A Preliminary Report. *Arch Intern Med*. 1972;129(5):725-731.
+doi:10.1001/archinte.1972.00320050049005
+
+21\. Kliks BR, Burgess MJ, Abildskov JA. Influence of sympathetic tone on
+ventricular fibrillation threshold during experimental coronary
+occlusion. *Am J Cardiol*. 1975;36(1):45-49.
+doi:10.1016/0002-9149(75)90866-8
+
+22\. Yannopoulos D, Bartos JA, Aufderheide TP, et al. The Evolving Role
+of the Cardiac Catheterization Laboratory in the Management of Patients
+With Out-of-Hospital Cardiac Arrest Circulation. *Circulation*.
+2019;139:530-552. doi:10.1161/CIR.0000000000000630
+
+23\. McMahon NC, Drinkhill MJ, Hainsworth R. Vascular responses to
+stimulation of carotid, aortic and coronary artery baroreceptors with
+pulsatile and non-pulsatile pressures in anaesthetized dogs. *Exp
+Physiol*. 1996;81(6):969-981. doi:10.1113/expphysiol.1996.sp003997
+
+24\. Drinkhill MJ, Mcmahon NC, Hainsworth R. Delayed sympathetic efferent
+responses to coronary baroreceptor unloading in anaesthetized dogs
+independent control of pressures to the aortic root , including the
+coronary arteries , the aortic arch and the carotid sinuses .
+Electrophysiological recordin. *Physiology*. 1996:261-269.
+
+25\. Lever JD, Ahmed M, Irvine G. Neuromuscular and intercellular
+relationships in the coronary arterioles. A morphological and
+quantitative study by light and electron microscopy. *J Anat*.
+1965;99(Pt 4):829-840.
+
+26\. Murphree SS, Saffitz JE. Delineation of the distribution of
+beta-adrenergic receptor subtypes in canine myocardium. *Circ Res*.
+1988;63(1):117-125.
+
+27\. Baumgart D, Haude M, Görge G, et al. Augmented alpha-adrenergic
 constriction of atherosclerotic human coronary arteries. *Circulation*.
-1999;99(16):2090-2097.28. Di Carli MF, Tobes MC, Mangner T, et al.
-Effects of Cardiac Sympathetic Innervation on Coronary Blood Flow. *N
-Engl J Med*. 2002;336(17):1208-1216. doi:10.1056/nejm19970424336170329.
-Abe T, Morgan DA, Gutterman DD. Role of adenosine receptor subtypes in
-neural stunning of sympathetic coronary innervation. *Am J Physiol Circ
-Physiol*. 1997;272(1):H25-H34. doi:10.1152/ajpheart.1997.272.1.H2530.
-Zipes DP. Influence of myocardial ischemia and infarction on autonomic
-innervation of heart. *Circulation*. 1990;82(4):1095-1105.
-doi:10.1161/01.CIR.82.4.109531. Herre JM, Wetstein L, Lin YL, Mills AS,
-Dae M, Thames MD. Effect of transmural versus nontransmural myocardial
-infarction on inducibility of ventricular arrhythmias during sympathetic
-stimulation in dogs. *J Am Coll Cardiol*. 1988;11(2):414-421.
-doi:10.1016/0735-1097(88)90110-632. Inoue H, Skale BT, Zipes DP. Effects
-of ischemia on cardiac afferent sympathetic and vagal reflexes in dog.
-*Am J Physiol Circ Physiol*. 1988;255(1):H26-H35.
-doi:10.1152/ajpheart.1988.255.1.H2633. Barber MJ, Mueller TM, Davies BG,
-Gill RM, Zipes DP. Interruption of sympathetic and vagal-mediated
-afferent responses by transmural myocardial infarction. *Circulation*.
-1985;72(3):623-631.34. Minisi AJ, Thames MD. Activation of cardiac
-sympathetic afferents during coronary occlusion. Evidence for reflex
-activation of sympathetic nervous system during transmural myocardial
-ischemia in the dog. *Circulation*. 1991;84(1):357-367.
-doi:10.1161/01.CIR.84.1.35735. Hardwick JC, Ryan SE, Beaumont E, Ardell
-JL, Southerland EM. Dynamic remodeling of the guinea pig intrinsic
-cardiac plexus induced by chronic myocardial infarction. *Auton Neurosci
-Basic Clin*. 2014;181(1):4-12. doi:10.1016/j.autneu.2013.10.00836. Neely
-BH, Hageman GR. Differential cardiac sympathetic activity during acute
-myocardial ischemia. *Am J Physiol*. 1990;258(5 Pt 2):H1534-41.
-doi:10.1152/ajpheart.1990.258.5.H153437. Huang WA, Boyle NG, Vaseghi M.
-Cardiac Innervation and the Autonomic Nervous System in Sudden Cardiac
-Death. *Card Electrophysiol Clin*. 2017;9(4):665-679.
-doi:10.1016/j.ccep.2017.08.00238. Cao J-M, Chen LS, KenKnight BH, et al.
-Nerve Sprouting and Sudden Cardiac Death. *Circ Res*.
-2000;86(7):816-821. doi:10.1161/01.RES.86.7.81639. Chen PS, Chen LS, Cao
-JM, Sharifi B, Karagueuzian HS, Fishbein MC. Sympathetic nerve
-sprouting, electrical remodeling and the mechanisms of sudden cardiac
-death. *Cardiovasc Res*. 2001;50(2):409-416.
-doi:10.1016/S0008-6363(00)00308-440. Shan J, Kushnir A, Betzenhauser MJ,
-et al. Phosphorylation of the ryanodine receptor mediates the cardiac
-fight or flight response in mice. *J Clin Invest*.
-2010;120(12):4388-4398. doi:10.1172/JCI3272641. Liao Z, Lockhead D,
-Larson ED, Proenza C. Phosphorylation and modulation of
-hyperpolarization-activated HCN4 channels by protein kinase A in the
-mouse sinoatrial node. *J Gen Physiol*. 2010;136(3):247-258.
-doi:10.1085/jgp.20101048842. Franzoso M, Zaglia T, Mongillo M. Putting
-together the clues of the everlasting neuro-cardiac liaison. *Biochim
-Biophys Acta - Mol Cell Res*. 2016;1863(7):1904-1915.
-doi:10.1016/j.bbamcr.2016.01.00943. Y-Hassan S, Tornvall P.
-Epidemiology, pathogenesis, and management of takotsubo syndrome. *Clin
-Auton Res*. 2018;28(1):53-65. doi:10.1007/s10286-017-0465-z44.
-Krishnamoorthy V, Burkhard Mackensen G, Gibbons EF, Vavilala MS. Cardiac
-dysfunction after neurologic injury what do we know and where are we
-going? *Chest*. 2016;149(5):1325-1331.
-doi:10.1016/j.chest.2015.12.01445. Hirsch E, Hilfiker-Kleiner D,
-Balligand J-L, et al. Interaction of the heart and its close and distant
-neighbours: report of the Meeting of the ESC Working Groups Myocardial
-Function and Cellular Biology. *Cardiovasc Res*. 2013;99(4):595-599.
-doi:10.1093/cvr/cvt17946. Zaglia T, Milan G, Franzoso M, et al. Cardiac
-sympathetic neurons provide trophic signal to the heart via
-β2-adrenoceptor-dependent regulation of proteolysis. *Cardiovasc Res*.
-2013;97(2):240-250. doi:10.1093/cvr/cvs32047. Shcherbakova OG, Hurt CM,
-Xiang Y, et al. Organization of β-adrenoceptor signaling compartments by
-sympathetic innervation of cardiac myocytes. *J Cell Biol*.
-2007;176(4):521-533. doi:10.1083/jcb.20060416748. Y-Hassan S. Acute
-cardiac sympathetic disruption in the pathogenesis of the takotsubo
-syndrome: A systematic review of the literature to date. *Cardiovasc
-Revascularization Med*. 2014;15(1):35-42.
-doi:10.1016/j.carrev.2013.09.00849. Nef HM, Möllmann H, Kostin S, et al.
-Tako-Tsubo cardiomyopathy: Intraindividual structural analysis in the
-acute phase and after functional recovery. *Eur Heart J*.
-2007;28(20):2456-2464. doi:10.1093/eurheartj/ehl57050. Stramba-Badiale
-M, Vanoli E, De Ferrari GM, Cerati D, Foreman RD, Schwartz PJ.
-Sympathetic-parasympathetic interaction and accentuated antagonism in
-conscious dogs. *Am J Physiol Circ Physiol*. 1991;260(2):H335-H340.
-doi:10.1152/ajpheart.1991.260.2.H33551. Levy MN. *Brief Reviews
-Sympathetlc-Parasympathetic Interactions in the Heart*.; 1971.52. Brack
-KE, Patel VH, Coote JH, Ng GA. Nitric oxide mediates the vagal
+1999;99(16):2090-2097.
+
+28\. Di Carli MF, Tobes MC, Mangner T, et al. Effects of Cardiac
+Sympathetic Innervation on Coronary Blood Flow. *N Engl J Med*.
+2002;336(17):1208-1216. doi:10.1056/nejm199704243361703
+
+29\. Abe T, Morgan DA, Gutterman DD. Role of adenosine receptor subtypes
+in neural stunning of sympathetic coronary innervation. *Am J Physiol
+Circ Physiol*. 1997;272(1):H25-H34. doi:10.1152/ajpheart.1997.272.1.H25
+
+30\. Zipes DP. Influence of myocardial ischemia and infarction on
+autonomic innervation of heart. *Circulation*. 1990;82(4):1095-1105.
+doi:10.1161/01.CIR.82.4.1095
+
+31\. Herre JM, Wetstein L, Lin YL, Mills AS, Dae M, Thames MD. Effect of
+transmural versus nontransmural myocardial infarction on inducibility of
+ventricular arrhythmias during sympathetic stimulation in dogs. *J Am
+Coll Cardiol*. 1988;11(2):414-421. doi:10.1016/0735-1097(88)90110-6
+
+32\. Inoue H, Skale BT, Zipes DP. Effects of ischemia on cardiac afferent
+sympathetic and vagal reflexes in dog. *Am J Physiol Circ Physiol*.
+1988;255(1):H26-H35. doi:10.1152/ajpheart.1988.255.1.H26
+
+33\. Barber MJ, Mueller TM, Davies BG, Gill RM, Zipes DP. Interruption of
+sympathetic and vagal-mediated afferent responses by transmural
+myocardial infarction. *Circulation*. 1985;72(3):623-631.
+
+34\. Minisi AJ, Thames MD. Activation of cardiac sympathetic afferents
+during coronary occlusion. Evidence for reflex activation of sympathetic
+nervous system during transmural myocardial ischemia in the dog.
+*Circulation*. 1991;84(1):357-367. doi:10.1161/01.CIR.84.1.357
+
+35\. Hardwick JC, Ryan SE, Beaumont E, Ardell JL, Southerland EM. Dynamic
+remodeling of the guinea pig intrinsic cardiac plexus induced by chronic
+myocardial infarction. *Auton Neurosci Basic Clin*. 2014;181(1):4-12.
+doi:10.1016/j.autneu.2013.10.008
+
+36\. Neely BH, Hageman GR. Differential cardiac sympathetic activity
+during acute myocardial ischemia. *Am J Physiol*. 1990;258(5 Pt
+2):H1534-41. doi:10.1152/ajpheart.1990.258.5.H1534
+
+37\. Huang WA, Boyle NG, Vaseghi M. Cardiac Innervation and the Autonomic
+Nervous System in Sudden Cardiac Death. *Card Electrophysiol Clin*.
+2017;9(4):665-679. doi:10.1016/j.ccep.2017.08.002
+
+38\. Cao J-M, Chen LS, KenKnight BH, et al. Nerve Sprouting and Sudden
+Cardiac Death. *Circ Res*. 2000;86(7):816-821.
+doi:10.1161/01.RES.86.7.816
+
+39\. Chen PS, Chen LS, Cao JM, Sharifi B, Karagueuzian HS, Fishbein MC.
+Sympathetic nerve sprouting, electrical remodeling and the mechanisms of
+sudden cardiac death. *Cardiovasc Res*. 2001;50(2):409-416.
+doi:10.1016/S0008-6363(00)00308-4
+
+40\. Shan J, Kushnir A, Betzenhauser MJ, et al. Phosphorylation of the
+ryanodine receptor mediates the cardiac fight or flight response in
+mice. *J Clin Invest*. 2010;120(12):4388-4398. doi:10.1172/JCI32726
+
+41\. Liao Z, Lockhead D, Larson ED, Proenza C. Phosphorylation and
+modulation of hyperpolarization-activated HCN4 channels by protein
+kinase A in the mouse sinoatrial node. *J Gen Physiol*.
+2010;136(3):247-258. doi:10.1085/jgp.201010488
+
+42\. Franzoso M, Zaglia T, Mongillo M. Putting together the clues of the
+everlasting neuro-cardiac liaison. *Biochim Biophys Acta - Mol Cell
+Res*. 2016;1863(7):1904-1915. doi:10.1016/j.bbamcr.2016.01.009
+
+43\. Y-Hassan S, Tornvall P. Epidemiology, pathogenesis, and management
+of takotsubo syndrome. *Clin Auton Res*. 2018;28(1):53-65.
+doi:10.1007/s10286-017-0465-z
+
+44\. Krishnamoorthy V, Burkhard Mackensen G, Gibbons EF, Vavilala MS.
+Cardiac dysfunction after neurologic injury what do we know and where
+are we going? *Chest*. 2016;149(5):1325-1331.
+doi:10.1016/j.chest.2015.12.014
+
+45\. Hirsch E, Hilfiker-Kleiner D, Balligand J-L, et al. Interaction of
+the heart and its close and distant neighbours: report of the Meeting of
+the ESC Working Groups Myocardial Function and Cellular Biology.
+*Cardiovasc Res*. 2013;99(4):595-599. doi:10.1093/cvr/cvt179
+
+46\. Zaglia T, Milan G, Franzoso M, et al. Cardiac sympathetic neurons
+provide trophic signal to the heart via β2-adrenoceptor-dependent
+regulation of proteolysis. *Cardiovasc Res*. 2013;97(2):240-250.
+doi:10.1093/cvr/cvs320
+
+47\. Shcherbakova OG, Hurt CM, Xiang Y, et al. Organization of
+β-adrenoceptor signaling compartments by sympathetic innervation of
+cardiac myocytes. *J Cell Biol*. 2007;176(4):521-533.
+doi:10.1083/jcb.200604167
+
+48\. Y-Hassan S. Acute cardiac sympathetic disruption in the pathogenesis
+of the takotsubo syndrome: A systematic review of the literature to
+date. *Cardiovasc Revascularization Med*. 2014;15(1):35-42.
+doi:10.1016/j.carrev.2013.09.008
+
+49\. Nef HM, Möllmann H, Kostin S, et al. Tako-Tsubo cardiomyopathy:
+Intraindividual structural analysis in the acute phase and after
+functional recovery. *Eur Heart J*. 2007;28(20):2456-2464.
+doi:10.1093/eurheartj/ehl570
+
+50\. Stramba-Badiale M, Vanoli E, De Ferrari GM, Cerati D, Foreman RD,
+Schwartz PJ. Sympathetic-parasympathetic interaction and accentuated
+antagonism in conscious dogs. *Am J Physiol Circ Physiol*.
+1991;260(2):H335-H340. doi:10.1152/ajpheart.1991.260.2.H335
+
+51\. Levy MN. *Brief Reviews Sympathetlc-Parasympathetic Interactions in
+the Heart*.; 1971.
+
+52\. Brack KE, Patel VH, Coote JH, Ng GA. Nitric oxide mediates the vagal
 protective effect on ventricular fibrillation via effects on action
 potential duration restitution in the rabbit heart. *J Physiol*.
-2007;583(2):695-704. doi:10.1113/jphysiol.2007.13846153. Pauza DH,
-Saburkina I, Rysevaite K, et al. Neuroanatomy of the murine cardiac
-conduction system. *Auton Neurosci*. 2013;176(1-2):32-47.
-doi:10.1016/j.autneu.2013.01.00654. Pauziene N, Alaburda P,
-Rysevaite-Kyguoliene K, et al. Innervation of the rabbit cardiac
-ventricles. *J Anat*. 2016;228(1):26-46. doi:10.1111/joa.1240055.
-Herring N, Lokale MN, Danson EJ, Heaton DA, Paterson DJ. Neuropeptide Y
-reduces acetylcholine release and vagal bradycardia via a Y2
-receptor-mediated, protein kinase C-dependent pathway. *J Mol Cell
-Cardiol*. 2008;44(3):477-485. doi:10.1016/j.yjmcc.2007.10.00156. Herring
-N. Autonomic control of the heart: Going beyond the classical
-neurotransmitters. *Exp Physiol*. 2015;100(4):354-358.
-doi:10.1113/expphysiol.2014.08018457. Rosano GMC, Tousoulis D, McFadden
-E, Clarke J, Davies GJ, Kaski JC. Effects of neuropeptide Y on coronary
-artery vasomotion in patients with microvascular angina. *Int J
-Cardiol*. 2017;238:123-127. doi:10.1016/j.ijcard.2017.03.02458. Herring
-N, Cranley J, Lokale MN, et al. The cardiac sympathetic co-transmitter
-galanin reduces acetylcholine release and vagal bradycardia:
-Implications for neural control of cardiac excitability. *J Mol Cell
-Cardiol*. 2012;52(3):667-676. doi:10.1016/j.yjmcc.2011.11.01659. Liu Y,
-Yue WS, Liao SY, et al. Thoracic spinal cord stimulation improves
-cardiac contractile function and myocardial oxygen consumption in a
-porcine model of ischemic heart failure. *J Cardiovasc Electrophysiol*.
-2012;23(5):534-540. doi:10.1111/j.1540-8167.2011.02230.x60. Singh S,
-Sayers S, Walter JS, et al. Hypertrophy of neurons within cardiac
-ganglia in human, canine, and rat heart failure: the potential role of
-nerve growth factor. *J Am Heart Assoc*. 2013;2(4).
-doi:10.1161/JAHA.113.00021061. Beau SL, Tolley TK, Saffitz JE.
-Heterogeneous transmural distribution of β-adrenergic receptor subtypes
-in failing human hearts. *Circulation*. 1993;88(6):2501-2509.
-doi:10.1161/01.CIR.88.6.250162. Wang HJ, Rozanski GJ, Zucker IH. Cardiac
-sympathetic afferent reflex control of cardiac function in normal and
-chronic heart failure states. *J Physiol*. 2017;595(8):2519-2534.
-doi:10.1113/JP273764
+2007;583(2):695-704. doi:10.1113/jphysiol.2007.138461
+
+53\. Pauza DH, Saburkina I, Rysevaite K, et al. Neuroanatomy of the
+murine cardiac conduction system. *Auton Neurosci*. 2013;176(1-2):32-47.
+doi:10.1016/j.autneu.2013.01.006
+
+54\. Pauziene N, Alaburda P, Rysevaite-Kyguoliene K, et al. Innervation
+of the rabbit cardiac ventricles. *J Anat*. 2016;228(1):26-46.
+doi:10.1111/joa.12400
+
+55\. Herring N, Lokale MN, Danson EJ, Heaton DA, Paterson DJ.
+Neuropeptide Y reduces acetylcholine release and vagal bradycardia via a
+Y2 receptor-mediated, protein kinase C-dependent pathway. *J Mol Cell
+Cardiol*. 2008;44(3):477-485. doi:10.1016/j.yjmcc.2007.10.001
+
+56\. Herring N. Autonomic control of the heart: Going beyond the
+classical neurotransmitters. *Exp Physiol*. 2015;100(4):354-358.
+doi:10.1113/expphysiol.2014.080184
+
+57\. Rosano GMC, Tousoulis D, McFadden E, Clarke J, Davies GJ, Kaski JC.
+Effects of neuropeptide Y on coronary artery vasomotion in patients with
+microvascular angina. *Int J Cardiol*. 2017;238:123-127.
+doi:10.1016/j.ijcard.2017.03.024
+
+58\. Herring N, Cranley J, Lokale MN, et al. The cardiac sympathetic
+co-transmitter galanin reduces acetylcholine release and vagal
+bradycardia: Implications for neural control of cardiac excitability. *J
+Mol Cell Cardiol*. 2012;52(3):667-676. doi:10.1016/j.yjmcc.2011.11.016
+
+59\. Liu Y, Yue WS, Liao SY, et al. Thoracic spinal cord stimulation
+improves cardiac contractile function and myocardial oxygen consumption
+in a porcine model of ischemic heart failure. *J Cardiovasc
+Electrophysiol*. 2012;23(5):534-540.
+doi:10.1111/j.1540-8167.2011.02230.x
+
+60\. Singh S, Sayers S, Walter JS, et al. Hypertrophy of neurons within
+cardiac ganglia in human, canine, and rat heart failure: the potential
+role of nerve growth factor. *J Am Heart Assoc*. 2013;2(4).
+doi:10.1161/JAHA.113.000210
+
+61\. Beau SL, Tolley TK, Saffitz JE. Heterogeneous transmural
+distribution of β-adrenergic receptor subtypes in failing human hearts.
+*Circulation*. 1993;88(6):2501-2509. doi:10.1161/01.CIR.88.6.2501
+
+62\. Wang HJ, Rozanski GJ, Zucker IH. Cardiac sympathetic afferent reflex
+control of cardiac function in normal and chronic heart failure states.
+*J Physiol*. 2017;595(8):2519-2534. doi:10.1113/JP273764

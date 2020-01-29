@@ -21,13 +21,13 @@ Paragraph ideas
 
     -   Coronary artery innervation
 
--   Catecholamine excess causes Wellen's (?)
+-   Catecholamine excess causes Wellen’s (?)
 
 -   Stellectomy protects VT/VF
 
 -   Catecholamines lead to hypertrophy, neuron edema, vagal withdrawal
 
--   Psychological stress leads to VF/VT...
+-   Psychological stress leads to VF/VT…
 
     -   Spinal cord contains sympathetic afferent/efferent neurons
 
